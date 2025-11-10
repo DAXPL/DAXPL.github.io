@@ -4,218 +4,204 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Portfolio Programisty</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    
+    <title>Miłosz Klim - Portfolio</title>
 </head>
 <body>
-    <header>
-        <h1>Miłosz </h1>
-        <p>Programista | Twórca Gier | Inżynier XR</p>
-        <p>Niepoprawny optymista</p>
+
+    <header class="hero-section">
+        <h1>Cześć, jestem Miłosz.</h1>
+        <p class="subtitle"><strong>Unity Developer | Integrator IT</strong><br>Zamieniam kod w interaktywne światy i aplikacje XR.</p>
+        <a href="cv.pdf" class="cta-button">Pobierz moje CV</a>
     </header>
 
-    <section id="about">
-        <h2>O mnie</h2>
-        <p>
-            Hello there
-        </p>
-    </section>
+    <main>
+        <!--Hero-->
+        <section id="about">
+            <h2>O mnie</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>
+                        Moją przygodę z technologią na poważnie rozpocząłem w technikum, gdzie za działalność w kole Gites otrzymałem Złoty Wawrzyn – nagrodę, która przypomina mi, że ciężką pracą można osiągnąć wszystko. 
+                        To tam nauczyłem się najważniejszego: <strong>prawdziwa motywacja płynie z pasji.</strong> Tej zasady trzymam się do dziś, co pozwala mi łączyć pracę z tym, co kocham.
+                    </p>
+                    <p>
+                        Moją największą pasją jest gamedev i technologie XR (VR/AR/MR). Im dziwniejsza technologia, tym lepiej! 
+                        Zakładałem własne studio Propaganda Studios oraz koło naukowe Errno, które zdobyło tytuł najlepszego na UAM w kategorii naukowej. 
+                        Od projektów LabVR dla szkół, przez uczenie AI pływania łodzią, aż po tworzenie gier na gamejamach czy nawet programowanie nakładek na broń palną – <strong>nie boję się wyzwań, bo każda potencjalna porażka to doświadczenie, które przekuwam w kolejny sukces.</strong>
+                    </p>
+                </div>
+            </div>
+        </section>
 
-    <section id="Gites">
-        <h2>GITES</h2>
-        <div class="project">
-            <p>Przychodząc po raz pierwszy na zajęcia do ZSE2, we wrześniu 2017, nie wiedziałem jak wielka przygoda mnie czeka. W ciągu czterech lat
-                miałem okazję brać udział w wielu niesamowitych projektach, odwiedzić wiele interesujących miejsc, ale również nauczyć się bardzo dużo.
-                <br />
-                W Gitesie imałem się najróżniejszych zadań, dzięki którym nauczyłem się programowania (głównie C#), eksploatacji urządzeń techniki komputerowej, overclockingu,
-                druku 3D, montażu wideo, oraz zarządzania grupą ludzi i wystąpień publicznych. Na początku nie było mi łatwo, ale dzięki wsparciu wychowawcy i starszych kolegów udało mi się zajść dalej, niż bym się spodziewał.
-                <br />
-                Z "szeregowego" gitesowca, szybko stałem się prowadzącym grupy co wymagało ode mnie szybkiej nauki na czym polega odpowiedzialnośc za powierzone zasoby ludzkie i sprzętowe.
-                Po ukończeniu technikum z kwalifikacjami EE.08 i EE.09, oraz Medalem Złotego Wawrzyna za niezwykłe osiągnięcia w nauce i rozwoju zawodowym, objąłem w Gitesie rolę mentorską.
-                Wciąż pomagam przy organizacji różnych wydarzeń, oraz staram się przekazywać młodzieży swój zapał i wiedzę.
-                <br />
-                Ten świat nie potrzebuje bohaterów - on potrzebuje zawodowców.
+        <!--Top projekty-->
+        <section id="featured-projects">
+            <h2>Wybrane Projekty</h2>
+
+            <article class="project-case-study">
+                <div class="project-media">
+                    <iframe src="https://itch.io/embed/1708380"></iframe>
+                </div>
+                <div class="project-description">
+                    <h3>SNS Minerwa</h3>
+                    <p>
+                        Minerwa to wirtualna strzelnica zrealizowana na zlecenie technikum ZSE2, pozwalająca na bezpieczny trening strzelecki w warunkach szkolnych przy użyciu rzutnika i repliki karabinu. Sercem projektu jest innowacyjny system oparty na wizji maszynowej. Zamiast drogich laserów czy nadajników IR, na lufie umieszczona jest niewielka kamera. Obraz z niej jest na żywo analizowany przez algorytm wyszukujący specjalne markery na ekranie, co pozwala precyzyjnie i bez opóźnień określić celność strzału.
+                    </p>
+                    <ul class="tech-stack">
+                        <li>Team leader</li>
+                        <li>Unity</li>
+                        <li>C#</li>
+                        <li>Programowanie AI</li>
+                        <li>Zarządzanie projektem</li>
+                    </ul>
+                    <div class="project-links">
+                        <a href="https://propaganda-studios.itch.io/minerwa" target="_blank">Sprawdź projekt na Itch.io</a>
+                    </div>
+                </div>
+            </article>
+        </section>
+
+        <!--Projekty-->
+        <section id="experience">
+            <h2>Doświadczenie i Działalność</h2>
+            <!--Propaganda-->
+            <div class="project">
+                <h3>Propaganda Studios</h3>
+                <p>
+                    Grupa gamedevowa, którą współzałożyłem. Tworzymy gry (głównie na gamejamy) oraz aplikacje edukacyjne. Prowadzimy także warsztaty z Unity i modelowania 3D dla młodzieży, dzieląc się naszą pasją i wiedzą.
+                </p>
+                <a href="https://propaganda-studios.itch.io">Zobacz nasze gry na Itch.io</a>
+                <div class="gallery">
+                    <a href="https://propaganda-studios.itch.io">
+                        <div class="galleryElement">
+                            <img src="img/PGA/IMG_4439.JPG" alt="Projekt 'PGA 2021'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">itch.io</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="pga2021.html">
+                        <div class="galleryElement">
+                            <img src="img/PGA/IMG_4429.JPG" alt="Projekt 'PGA 2021'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">PGA 2021</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+            <!--FO-->
+            <div class="project">
+                <h3>Flying Octopus</h3>
+                <p>
+                    Demokratyczny kolektyw gamedevowy, który stawia na samorealizację, autonomię i przyjazną atmosferę. W zespole, gdzie każdy ma realny wpływ na projekty, zajmowałem się głównie programowaniem gier w Unity. Odpowiadałem również za mentorowanie i prowadzenie praktyk dla nowych członków, dzieląc się swoją wiedzą.
+                </p>
+                <a href="https://flyingoctopus.pl">Więcej o Flying Octopus</a>
+            </div>
+            <!--Gites-->
+            <div class="project">
+                <h3>GITES</h3>
+                <p>
+                    Moja przygoda z poważnym IT. Zaczynałem jako "szeregowy" członek, szybko awansując na lidera grupy. Nauczyłem się tu C#, administracji sprzętem, druku 3D i wystąpień publicznych. Po ukończeniu technikum (z kwalifikacjami EE.08, EE.09 i Medalem Złotego Wawrzyna) objąłem rolę mentora, pomagając młodszym kolegom.
+                </p>
+                <a href="gites.html">Więcej o grupie GITES</a>
+                <div class="gallery">
+                    <a href="https://www.facebook.com/zse2gites/posts/pfbid0T9AtZgTAMncz14Fjx8NEi2smfvrtko7Nech2FTHBARnfvNkssZ7AYTQ3BQNA7dWHl?locale=pl_PL">
+                        <div class="galleryElement">
+                            <img src="img/Gites/Czaszki/czacha2.jpg" alt="Projekt 'Tu się wszystko zaczęło'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Projekt 'Tu się wszystko zaczęło'</div>
+                            </div>
+                        </div>
+                    </a>
+                     <a href="dnt.html">
+                        <div class="galleryElement">
+                            <img src="img/Gites/DNT/DNT_2022_1.jpg" alt="Projekt 'Dni nowych technologii'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Dni nowych technologii</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="">
+                        <div class="galleryElement">
+                            <img src="img/Gites/Targi/Targi_2020_1.jpg" alt="Projekt 'Targi Edukacyjne 2020'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Targi Edukacyjne</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <!--Errno-->
+            <div class="project">
+                <h3>Studenckie Koło Naukowe "Errno"</h3>
+                <p>
+                    Na pierwszym roku studiów, tęskniąc za energią i praktycznym działaniem z Gitesu, postanowiłem założyć własne koło naukowe. 
+                    Tak powstało Errno przy Wydziale Fizyki UAM. Mimo trudnych początków i dużej ilości formalności , już po niecałym roku działalności zdobyliśmy tytuł najlepszego koła naukowego UAM w kategorii naukowej.
+                    Organizujemy warsztaty, prelekcje i projekty obejmujące różne dyscypliny IT. Naszym celem jest tworzenie środowiska współpracy, w którym członkowie mogą odkrywać swoje zainteresowania i rozwijać umiejętności. 
+                </p>
+                <div class="gallery">
+                    <a href="errnoWydarzenia.html">
+                        <div class="galleryElement">
+                            <img src="img/Errno/errno1.jpg" alt="Projekt 'Dzień kół naukowych'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Dzień kół naukowych</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="pestkaJam.html">
+                        <div class="galleryElement">
+                            <img src="img/Errno/errno2.jpg" alt="Gamejam 'PestkaJam'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">PestkaJam</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="drony.html">
+                        <div class="galleryElement">
+                            <img src="img/Errno/errno2.jpg" alt="Projekt dronów autonomicznych 'XR-BINIU'" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Autonomiczne drony</div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="inzynierka.html">
+                        <div class="galleryElement">
+                            <img src="img/Errno/errno2.jpg" alt="Praca inżynierska" class="galleryImage" loading="lazy">
+                            <div class="galleryElementoverlay">
+                                <div class="galleryText">Praca inżynierska</div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </section>
+        
+        <!--Kontakt-->
+        <section id="contact">
+            <h2>Zbudujmy coś razem</h2>
+            <p>
+                Szukasz dewelopera Unity do swojego projektu? Chcesz porozmawiać o gamedevie? <br>
+                Napisz do mnie lub znajdź mnie w sieci.
             </p>
-            <a href="https://---">Więcej o grupie GITES</a>
-            <h3>Projekty w których brałem udział:</h3>
-
-            <div class="gallery">
-                <a href="https://www.facebook.com/zse2gites/posts/pfbid0T9AtZgTAMncz14Fjx8NEi2smfvrtko7Nech2FTHBARnfvNkssZ7AYTQ3BQNA7dWHl?locale=pl_PL">
-                    <div class="galleryElement">
-                        <img src="img/Gites/Czaszki/czacha2.jpg" alt="Projekt 'Tu się wszystko zaczęło'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Projekt 'Tu się wszystko zaczęło'</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/Czaszki/czacha3.jpg" alt="Projekt 'Tu się wszystko zaczęło'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Projekt 'Tu się wszystko zaczęło'</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/DNT/DNT_2018_1.png" alt="Projekt 'Dni nowych technologii 2018'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Dni nowych technologii 2018</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="https://---/2017/10/21/komputer-z-drukarki-3d/"">
-                    <div class="galleryElement">
-                        <img src="img/Gites/Druk3d/komputer_1.jpg" alt="Projekt 'Komputer z drukarki 3d'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Komputer z drukarki 3d</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/Arena/Arena_2019_1.png" alt="Projekt 'Arena zawodu 2019'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Arena zawodu 2019</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/Targi/Targi_2020_1.jpg" alt="Projekt 'Targi Edukacyjne 2020'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Targi Edukacyjne 2020</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/DNT/DNT_2022_1.jpg" alt="Projekt 'Dni nowych technologii 2022'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Dni nowych technologii 2022</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Gites/DNT/DNT_2023_1.jpg" alt="Projekt 'Dni nowych technologii 2023'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Dni nowych technologii 2023</div>
-                        </div>
-                    </div>
-                </a>
+            <a href="mailto:klim.milosz@gmail.com" class="cta-button">Napisz e-mail</a>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/miloszklim/" target="_blank">LinkedIn</a>
+                <a href="https://github.com/DAXPL" target="_blank">GitHub</a>
+                <a href="https://daxpl.itch.io/" target="_blank">Itch.io</a>
             </div>
-        </div>
-    </section>
-
-    <section id="PropagandaStudios">
-        <h2>Propaganda Studios</h2>
-        <div class="project">
-            <p>Niewielka grupa zapaleńców założona przeze mnie i Krystiana Olesiejko jeszcze jak oboje byliśmy uczniami technikum. 
-                Poza tworzeniem gier i wyjazdami na gamejamy, zajmujemy się tworzeniem aplikacji na potrzeby oświaty, oraz zahaczające o 
-                zastosowania militarne. Dodatkowo prowadzimy warsztaty dla młodzieży z zakresu modelowania 3D, programowania oraz obsługi technologii XR.
-                <br />
-
-            </p>
-            <a href="https://propaganda-studios.itch.io">Więcej o Propaganda Studios</a>
-            <h3>Nasze produkty:</h3>
-            <div class="gallery">
-                <iframe  src="https://itch.io/embed/1708380"><a href="https://propaganda-studios.itch.io/minerwa">SNS Minerwa by Propaganda Studios, DAX.PL, Mruz, KeyEss</a></iframe>
-                <iframe  src="https://itch.io/embed/771118"><a href="https://propaganda-studios.itch.io/skacz-ptak">Skacz ptak by Propaganda Studios, Paradai, DAX.PL</a></iframe>
-                <iframe  src="https://itch.io/embed/902237"><a href="https://propaganda-studios.itch.io/poszutex">Poszutex by Propaganda Studios, Paradai, DAX.PL</a></iframe>
-                <iframe  src="https://itch.io/embed/1729260"><a href="https://propaganda-studios.itch.io/adpunk">AdPunk by Propaganda Studios, Cosinus, Paradai, OshQ Design Zone, DAX.PL, Mruz, KeyEss</a></iframe>
-                <iframe  src="https://itch.io/embed/1375708"><a href="https://propaganda-studios.itch.io/morphology">Morphology by Propaganda Studios, Paradai, Flying Octopus, DAX.PL, Mruz, KeyEss</a></iframe>
-                <iframe  src="https://itch.io/embed/1137083"><a href="https://propaganda-studios.itch.io/grunwald">Grunwald - historia podobno nieprawdziwa by Propaganda Studios, Paradai, DAX.PL, KeyEss</a></iframe>
-                <iframe  src="https://itch.io/embed/1629935"><a href="https://propaganda-studios.itch.io/kharakternik">Kharakternik by Propaganda Studios, Paradai, DAX.PL, Mruz</a></iframe>
-            </div>
-            <div class="gallery">
-
-                <a href="https://propaganda-studios.itch.io">
-                    <div class="galleryElement">
-                        <img src="img/PGA/IMG_4439.JPG" alt="Projekt 'PGA 2021'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">PGA 2021</div>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://propaganda-studios.itch.io">
-                    <div class="galleryElement">
-                        <img src="img/PGA/IMG_4429.JPG" alt="Projekt 'PGA 2021'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">PGA 2021</div>
-                        </div>
-                    </div>
-                </a>
-                <a href="https://propaganda-studios.itch.io">
-                    <div class="galleryElement">
-                        <img src="img/PGA/IMG_4448.JPG" alt="Projekt 'PGA 2021'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">PGA 2021</div>
-                        </div>
-                    </div>
-                </a>
-
-            </div>
-        </div>
-    </section>
-
-    <section id="FlyingOctopus">
-        <h2>Flying Octopus</h2>
-        <div class="project">
-            <p>Nasz zespół składa się z programistów, grafików, dźwiękowców oraz wszelkiej maści artystów i zawodowców, którzy wspólnie chcą tworzyć kreatywne rzeczy. Każdy z nas realizuje się w tym, co najbardziej mu odpowiada, a dzięki szkoleniom poszerzamy swoje horyzonty i zdobywamy doświadczenie.
-                <br />
-                Nie jesteśmy stricte studiem gamedevowym. W ramach naszej działalności podejmujemy się wielu kreatywnych projektów: rysowania komiksów, modelowania 3D lub programowania gry naszych marzeń. We Flying Octopus każdy znajdzie coś dla siebie, ponieważ nasi członkowie mają realny wpływ na to, co i w jaki sposób realizujemy. Nie bez znaczenia jest tu turkusowe zarządzanie czy demokratyczny system podejmowania decyzji.
-                <br />
-                Naszym celem jest tworzenie coraz to ambitniejszych gier, dzięki którym każdy z nas czegoś się nauczy i rozwinie swoje kompetencje. Przede wszystkim zależy nam jednak na dobrej zabawie i miłej atmosferze. Pieniądze grają u nas bardzo małą rolę. 
-                <br />
-                W zespole zajmuję się głównie programowaniem gier w silniku Unity 3D, oraz prowadzeniem praktyk.
-            </p>
-            <a href="https://flyingoctopus.pl">Więcej o Flying Octopus</a>
-            <div class="gallery">
-                <iframe src="https://itch.io/embed/2212753"><a href="https://flyingoctopus.itch.io/szkola-octiego">Szkoła Octiego by Flying Octopus, OshQ Design Zone, Cosinus, DAX.PL</a></iframe>
-                <iframe src="https://itch.io/embed/2118003"><a href="https://flyingoctopus.itch.io/cos">C.O.Ś. by Flying Octopus, DAX.PL, jacekwpolo, Cosinus</a></iframe>
-                <iframe src="https://itch.io/embed/1926404"><a href="https://flyingoctopus.itch.io/allium">Allium by Flying Octopus, DAX.PL, Cosinus, CeDwukropek</a></iframe>
-            </div>
-        </div>
-    </section>
-
-    <section id="Errno">
-        <h2>Studenckie Koło Naukowe "Errno"</h2>
-        <div class="project">
-            <p>Koło które zaczyna się toczyć</p>
-            <div class="gallery">
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Errno/errno1.jpg" alt="Projekt 'Dzień kół naukowych'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Dzień kół naukowych</div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="">
-                    <div class="galleryElement">
-                        <img src="img/Errno/errno2.jpg" alt="Projekt 'Dzień kół naukowych'" class="galleryImage">
-                        <div class="galleryElementoverlay">
-                            <div class="galleryText">Dzień kół naukowych</div>
-                        </div>
-                    </div>
-                </a>
-
-
-            </div>
-        </div>
-    </section>
+        </section>
+    </main>
 
     <footer>
-        <p>&copy; 2024 Miłosz Klim</p>
+        <p>&copy; 2025 Miłosz Klim</p>
     </footer>
+
 </body>
 </html>
