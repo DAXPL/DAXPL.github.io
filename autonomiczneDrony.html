@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    
+    <title>autonomiczneDrony</title>
+</head>
+<body>
+
+    <header class="subpage-header">
+        <a href="index.html" class="back-link">&larr; Powrót do Portfolio</a>
+    </header>
+
+    <main>
+        <section id="project-details">
+            <h1>miXed Reality Blended Intelligence for Navigable Interactive UV's</h1>
+            
+            <p class="project-subtitle">
+                Naszym największym sukcesem było nauczenie piasku myślenia
+            </p>
+            
+            <h2>O Projekcie</h2>
+            <p>
+                Projekt ma na celu stworzenie środowiska do projektowania bezzałogowych pojazdów, napędzanych sztuczną inteligencją. 
+                Trenowanie dronów w wirtualnym środowisku przed ich wdrożeniem do świata rzeczywistego to podejście zyskujące na popularności, 
+                zwłaszcza dzięki nowym narzędziom i przełomowych odkryciach w dziedzinie symulacji i sztucznej inteligencji. 
+                Również ogromna moc obliczeniowa, oferowana przez współczesne podzespoły, umożliwa przeprowadzanie symulacji na niespotykaną wcześniej skalę, 
+                przy zachowaniu wysokiej precyzji. Dla biznesu jednak najważniejszym argumentem przemawiającym za prototypowaniem “na sucho”, w komputerze jest cena. 
+                Symulacje pozwalają na testowanie algorytmów sterowania bez ryzyka uszkodzenia sprzętu, kosztów wynajęcia powierzchni czy zagrożenia dla otoczenia.
+            </p>
+            <br />
+            <p>
+                W ramach realizacji projektu wykorzystano Unity ML-Agents Toolkit – zestaw narzędzi umożliwiający 
+                trenowanie agentów w środowiskach trójwymiarowych z użyciem technik sztucznej inteligencji, w 
+                szczególności uczenia przez wzmacnianie (Reinforcement Learning, RL).
+            </p>
+            <br />
+            <p>
+                Jednym z kluczowych wyzwań i jednocześnie najbardziej ambitnych celów projektu XR BINIU jest architektura komunikacji. 
+                W pierwotnej wersji, na etapie prototypowania i lokalnych testów, polegaliśmy na wbudowanych możliwościach mikrokontrolera ESP32, który łączył się z 
+                aplikacją sterującą przez Wi-Fi. Komunikacja odbywała się poprzez protokół WebSocket, co sprawdzało się podczas testów na kampusie, 
+                jednak rozwiązanie to miało dwie zasadnicze wady: niestabilność połączenia  oraz fundamentalne ograniczenie zasięgu do jednej sieci lokalnej.
+                Przechodzimy obecnie na znacznie bardziej skalowalną architekturę, opartej o implementację modemu GSM/LTE na jednostce pływającej. 
+                To uwalnia drona od zasięgu lokalnego Wi-Fi i daje mu dostęp do globalnej sieci komórkowej za pośrednictwem VPN.
+            </p>
+            <h2>Zastosowanie druku 3D</h2>
+            <p>
+                W projekcie technologia druku 3D odegrała fundamentalną rolę, umożliwiając szybkie prototypowanie i wytwarzanie niestandardowych elementów konstrukcyjnych. 
+                Wykorzystaliśmy technologię FDM (Fused Deposition Modeling) do stworzenia kadłuba drona oraz licznych elementów pomocniczych, takich jak mocowania silników, 
+                nadbudówki, wieżyczka czy ramiona napędu powietrznego. Wybór tej technologii podyktowany był jej dostępnością, niskimi kosztami eksploatacji oraz możliwością 
+                szybkiego wprowadzania zmian konstrukcyjnych na podstawie testów pływalności i wyważenia.
+            </p>
+            <p>
+                Szczególne podziękowania kieruję do <strong>Wielkopolskiego Centrum Nowych Technologii</strong> za nieocenioną pomoc w realizacji tego projektu.
+                Udostępnienie zespołowi przemysłowej drukarki Dragon 3D oraz wsparcie materiałowe w postaci filamentu pozwoliło nam na wydrukowanie pełnowymiarowego kadłuba 
+                w jednym elemencie, co było kluczowe dla sukcesu całego przedsięwzięcia. 
+                Wasze wsparcie i otwartość na studenckie inicjatywy pozwoliły nam przekuć ambitny projekt w rzeczywistość.
+            </p>
+            
+            <h2>Mój Wkład i Odpowiedzialność</h2>
+            <p>
+                W projekcie XR BINIU moim głównym zadaniem było zaprogramowanie modularnej architektury Sim2Real. 
+                Kluczem było tu stworzenie uniwersalnego "wirtualnego mózgu" (Breadboard), który oddziela logikę AI od fizycznego sprzętu.
+                Moja druga rola to implementacja i nadzór nad procesem uczenia przez wzmacnianie (Reinforcement Learning). Wykorzystałem do tego pakiet Unity ML-Agents.
+            </p>
+            <h2>Kluczowe Technologie i Umiejętności</h2>
+            <ul class="tech-stack">
+                <li>Unity</li>
+                <li>Uczenie maszynowe</li>
+                <li>Projektowanie dronów</li>
+                <li>ESP32</li>
+                <li>C#, C++, python</li>
+            </ul>
+            <h2>Przyszłość projektu</h2>
+            <p>
+                Wodowanie drona wodnego było ogromnym sukcesem i potwierdzeniem poprawności naszej architektury Sim2Real. Obecnie, wraz z zespołem, 
+                podnosimy poprzeczkę i stosujemy te same zasady do znacznie bardziej ambitnego celu: nauczenia sztucznej inteligencji latania bicopterem.
+                Jest to niezwykle trudne wyzwanie, ponieważ dron dwuwirnikowy (wspomagany serwomechanizmami) jest z natury niestabilny. 
+                Ponownie, trenujemy agenta w precyzyjnej symulacji w Unity, zanim wdrożymy model na fizycznym urządzeniu
+            </p>
+
+            
+        </section>
+
+        <section id="project-gallery">
+            <h2>Galeria Zdjęć</h2>
+            <div class="gallery">
+                <a href="img/Errno/Drony/20250602_143615.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/20250602_143615.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+                <a href="img/Errno/Drony/20250602_143633.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/20250602_143633.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+                <a href="img/Errno/Drony/20250609_143529.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/20250609_143529.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+                <a href="img/Errno/Drony/IMG-20250609-WA0000.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+                </a>
+                <a href="img/Errno/Drony/20250602_144957.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/20250602_144957.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+                <a href="img/Errno/Drony/20250511_222628.jpg" target="_blank">
+                <div class="galleryElement">
+                    <img src="img-compressed/Errno/Drony/20250511_222628.webp" alt="Opis" class="galleryImage" loading="lazy">
+                </div>
+                </a>
+            </div>
+        </section>
+        
+        <section id="project-links">
+            <h2>Powiązane Odnośniki</h2>
+            <ul class="external-links">
+                <li><a href="https://docs.google.com/document/d/1-k4Ll4qevaH445sVjVkQF32h3w11uCgUwEZ2eICMMHg/edit?usp=sharing" target="_blank">Raport projektowy</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Miłosz Klim</p>
+    </footer>
+
+</body>
+</html>
