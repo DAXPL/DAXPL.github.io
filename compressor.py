@@ -48,8 +48,8 @@ def process_images(source_dir, target_dir, max_width=800, quality=75):
 
 # --- Uruchomienie skryptu ---
 if __name__ == "__main__":
-    source_folder = input("Podaj ścieżkę do folderu z obrazami: ")
-    
+    #source_folder = input("Podaj ścieżkę do folderu z obrazami: ")
+    source_folder = "img/"
     if not os.path.isdir(source_folder):
         print(f"Folder '{source_folder}' nie istnieje.")
         sys.exit(1)
