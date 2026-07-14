@@ -1,0 +1,304 @@
+/* ZMIENNE KOLORYSTYCZNE I TYPOGRAFICZNE */
+:root {
+    --text-dark: #20232a;       /* Bardzo ciemny szary dla doskonałej ostrości druku */
+    --text-muted: #5f6368;      /* Zgaszony szary dla opisów i dat */
+    --brand-color: #2c3e50;     /* Głęboki, inżynierski granat */
+    --bg-sidebar: #f4f6f9;      /* Chłodny, bardzo jasny szary dla bocznego paska */
+    --bg-main: #ffffff;         /* Czysta biel */
+    --accent-light: #d1d5db;    /* Szary dla delikatnych linii odcięcia */
+    --tag-bg: #e5e7eb;          /* Tło dla umiejętności */
+    
+    /* GŁÓWNY ROZMIAR CZCIONKI - Zmień tutaj, by przeskalować całe CV! */
+    --base-font-size: 9.25pt; 
+}
+
+/* RESET I BAZOWA TYPOGRAFIA */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', Helvetica, Arial, sans-serif;
+    color: var(--text-dark);
+    line-height: 1.4; /* Bardziej zwarta interlinia */
+    background-color: #e9ecef;
+    font-size: var(--base-font-size); 
+}
+
+/* GŁÓWNY KONTENER CV */
+.cv-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 210mm; /* A4 */
+    min-height: 297mm; /* A4 */
+    margin: 20px auto;
+    background: var(--bg-main);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* STRUKTURA WIERSZOWA */
+.row {
+    display: flex;
+    width: 100%;
+}
+
+/* KOLUMNY LEWE (SIDEBAR) */
+.sidebar {
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--accent-light);
+}
+
+.sidebar-top {
+    width: 32%;
+    padding: 20px 15px; /* Odchudzony padding */
+}
+
+.sidebar-bottom {
+    width: 8%;
+}
+
+/* KOLUMNY PRAWE (MAIN) */
+.main {
+    padding: 20px 25px; /* Odchudzony padding */
+}
+
+.main-top {
+    width: 68%;
+}
+
+.main-bottom {
+    width: 92%;
+    padding-top: 15px;
+}
+
+/* ZDJĘCIE PROFILOWE */
+.profile-photo {
+    width: 130px; /* Nieco mniejsze zdjęcie, by zaoszczędzić miejsce */
+    height: 130px;
+    margin: 0 auto 15px auto;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid var(--brand-color);
+    background-color: var(--accent-light);
+}
+
+.profile-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* NAGŁÓWKI */
+h1 {
+    color: var(--brand-color);
+    font-size: 2.2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1.1;
+    margin-bottom: 2px;
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 1.1em;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: block;
+    letter-spacing: 0.5px;
+}
+
+h2 {
+    font-size: 1.25em;
+    color: var(--brand-color);
+    text-transform: uppercase;
+    font-weight: 700;
+    border-bottom: 2px solid var(--brand-color);
+    padding-bottom: 3px;
+    margin: 15px 0 10px 0; /* Zmniejszone marginesy nad i pod nagłówkiem */
+    page-break-after: avoid; 
+}
+
+h3 {
+    font-size: 1.05em;
+    color: var(--text-dark);
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+/* SEKCJE I ELEMENTY LOKALNE */
+.section-item {
+    margin-bottom: 15px; /* Skondensowane sekcje */
+    page-break-inside: avoid;
+}
+
+.meta-info {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    font-weight: 600;
+    margin-bottom: 4px;
+    display: inline-block;
+}
+
+.role-title {
+    font-weight: 700;
+    color: var(--text-dark);
+}
+
+ul {
+    margin-left: 16px;
+    margin-top: 3px;
+}
+
+li {
+    margin-bottom: 3px;
+    text-align: justify;
+}
+
+.link-item {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.85em;
+    color: var(--brand-color);
+    list-style-type: none;
+    margin-left: -16px;
+    margin-top: 3px;
+}
+
+a {
+    color: var(--text-dark);
+    text-decoration: underline;
+}
+
+/* SEKCJA KONTAKT */
+.contact-list {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+
+.contact-list li {
+    margin-bottom: 6px;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+}
+
+.contact-list i {
+    color: var(--brand-color);
+    width: 20px;
+    font-size: 1.1em;
+    margin-right: 6px;
+    text-align: center;
+}
+
+/* SEKCJA UMIEJĘTNOŚCI (TAGI) */
+.skills-tags {
+    list-style: none;
+    margin-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 8px;
+}
+
+.skills-tags li {
+    font-family: 'JetBrains Mono', monospace;
+    background: var(--tag-bg);
+    color: var(--text-dark);
+    padding: 3px 6px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: 500;
+    margin: 0;
+}
+
+/* LISTA CERTYFIKATÓW */
+.certificates-list {
+    column-count: 2;
+    column-gap: 30px;
+    margin-bottom: 5px;
+}
+
+.certificates-list li {
+    margin-bottom: 5px;
+    
+    /* KLUCZOWE FIXY: */
+    break-inside: avoid;          /* Zmusza przeglądarkę, by przenosiła cały punkt jako jedną całość */
+    page-break-inside: avoid;     /* Dodatkowe wsparcie dla starszych generatorów PDF */
+    word-break: normal;           /* Blokuje sztuczne łamanie słów w połowie */
+    text-align: left;             /* Zmiana z justify na left zapobiega nienaturalnemu rozciąganiu wyrazów */
+}
+
+/* RODO */
+.rodo {
+    font-size: 0.65em;
+    color: var(--text-muted);
+    text-align: justify;
+    margin-top: 20px;
+    border-top: 1px solid var(--accent-light);
+    padding-top: 10px;
+    page-break-inside: avoid;
+}
+
+/* USTAWIENIA DRUKOWANIA DO PDF */
+@media print {
+    body {
+        background-color: white;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+    }
+    
+    .cv-container {
+        margin: 0;
+        box-shadow: none;
+        width: 100%;
+        max-width: none;
+    }
+    
+    @page {
+        margin: 0;
+        size: A4 portrait;
+    }
+
+    .row {
+        page-break-after: always;
+        break-after: page;
+        page-break-inside: avoid;
+        height: 296mm; 
+        overflow: hidden; 
+        position: relative; 
+    }
+    
+    .row:last-child {
+        page-break-after: auto;
+        break-after: auto;
+    }
+
+    .main-bottom .section-item {
+        margin-bottom: 8px !important;
+    }
+    
+    .main-bottom h2 {
+        margin-top: 10px !important;
+        margin-bottom: 8px !important;
+    }
+
+    .main-bottom {
+        position: relative;
+        height: 100%;
+    }
+    
+    .rodo {
+        position: absolute;
+        bottom: 5mm;
+        left: 5mm;
+        right: 5mm;
+        font-size: 8px !important;
+        line-height: 1.2;
+        padding-top: 8px; 
+        border-top: 1px solid #ccc;
+    }
+}
