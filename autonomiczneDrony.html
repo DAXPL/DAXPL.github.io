@@ -1,20 +1,31 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Tagi językowe (SEO) -->
+    <link rel="alternate" hreflang="en" href="https://daxpl.github.io/autonomiczneDrony.html" />
+    <link rel="alternate" hreflang="pl" href="https://daxpl.github.io/autonomiczneDrony-pl.html" />
+    <link rel="alternate" hreflang="x-default" href="https://daxpl.github.io/autonomiczneDrony.html" />
+
     <link rel="stylesheet" href="styles.css">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Montserrat:wght@700&display=swap" rel="stylesheet">
     
-    <title>autonomiczneDrony</title>
+    <title>Autonomous Drones - Miłosz Klim</title>
 </head>
 <body>
 
+    <!-- Przełącznik języka -->
+    <div style="position: absolute; top: 20px; right: 20px; z-index: 1000;">
+        <a href="autonomiczneDrony-pl.html" style="text-decoration: none; font-size: 1.8rem; background: rgba(128,128,128,0.2); padding: 5px 10px; border-radius: 8px; backdrop-filter: blur(5px); transition: 0.3s;" title="Zmień język na polski">🇵🇱</a>
+    </div>
+
     <header class="subpage-header">
-        <a href="index.html" class="back-link">&larr; Powrót do Portfolio</a>
+        <a href="index.html" class="back-link">&larr; Back to Portfolio</a>
     </header>
 
     <main>
@@ -22,113 +33,112 @@
             <h1>miXed Reality Blended Intelligence for Navigable Interactive UV's</h1>
             
             <p class="project-subtitle">
-                Naszym największym sukcesem było nauczenie piasku myślenia
+                Our greatest success was teaching sand to think
             </p>
             
-            <h2>O Projekcie</h2>
+            <h2>About the Project</h2>
             <p>
-                Projekt ma na celu stworzenie środowiska do projektowania bezzałogowych pojazdów, napędzanych sztuczną inteligencją. 
-                Trenowanie dronów w wirtualnym środowisku przed ich wdrożeniem do świata rzeczywistego to podejście zyskujące na popularności, 
-                zwłaszcza dzięki nowym narzędziom i przełomowych odkryciach w dziedzinie symulacji i sztucznej inteligencji. 
-                Również ogromna moc obliczeniowa, oferowana przez współczesne podzespoły, umożliwa przeprowadzanie symulacji na niespotykaną wcześniej skalę, 
-                przy zachowaniu wysokiej precyzji. Dla biznesu jednak najważniejszym argumentem przemawiającym za prototypowaniem “na sucho”, w komputerze jest cena. 
-                Symulacje pozwalają na testowanie algorytmów sterowania bez ryzyka uszkodzenia sprzętu, kosztów wynajęcia powierzchni czy zagrożenia dla otoczenia.
+                The project aims to create an environment for designing unmanned vehicles powered by artificial intelligence. 
+                Training drones in a virtual environment before deploying them in the real world is an approach gaining popularity, 
+                especially thanks to new tools and breakthroughs in the fields of simulation and artificial intelligence. 
+                The massive computing power offered by modern hardware also enables simulations on an unprecedented scale, 
+                while maintaining high precision. For business, however, the most important argument for "dry" prototyping in a computer is price. 
+                Simulations allow for testing control algorithms without the risk of equipment damage, space rental costs, or danger to the surroundings.
             </p>
             <br />
             <p>
-                W ramach realizacji projektu wykorzystano Unity ML-Agents Toolkit – zestaw narzędzi umożliwiający 
-                trenowanie agentów w środowiskach trójwymiarowych z użyciem technik sztucznej inteligencji, w 
-                szczególności uczenia przez wzmacnianie (Reinforcement Learning, RL).
+                As part of the project, we used the Unity ML-Agents Toolkit – a set of tools enabling 
+                the training of agents in 3D environments using AI techniques, specifically 
+                Reinforcement Learning (RL).
             </p>
             <br />
             <p>
-                Jednym z kluczowych wyzwań i jednocześnie najbardziej ambitnych celów projektu XR BINIU jest architektura komunikacji. 
-                W pierwotnej wersji, na etapie prototypowania i lokalnych testów, polegaliśmy na wbudowanych możliwościach mikrokontrolera ESP32, który łączył się z 
-                aplikacją sterującą przez Wi-Fi. Komunikacja odbywała się poprzez protokół WebSocket, co sprawdzało się podczas testów na kampusie, 
-                jednak rozwiązanie to miało dwie zasadnicze wady: niestabilność połączenia  oraz fundamentalne ograniczenie zasięgu do jednej sieci lokalnej.
-                Przechodzimy obecnie na znacznie bardziej skalowalną architekturę, opartej o implementację modemu GSM/LTE na jednostce pływającej. 
-                To uwalnia drona od zasięgu lokalnego Wi-Fi i daje mu dostęp do globalnej sieci komórkowej za pośrednictwem VPN.
+                One of the key challenges and simultaneously the most ambitious goals of the XR BINIU project is the communication architecture. 
+                Initially, during prototyping and local testing, we relied on the built-in capabilities of the ESP32 microcontroller, which connected to the 
+                control application via Wi-Fi. Communication took place through the WebSocket protocol, which worked well during tests on campus, 
+                but this solution had two major flaws: connection instability and a fundamental range limitation to a single local network.
+                We are currently migrating to a much more scalable architecture based on implementing a GSM/LTE modem on the watercraft. 
+                This frees the drone from the local Wi-Fi range and gives it access to the global cellular network via VPN.
             </p>
-            <h2>Zastosowanie druku 3D</h2>
+            <h2>Application of 3D Printing</h2>
             <p>
-                W projekcie technologia druku 3D odegrała fundamentalną rolę, umożliwiając szybkie prototypowanie i wytwarzanie niestandardowych elementów konstrukcyjnych. 
-                Wykorzystaliśmy technologię FDM (Fused Deposition Modeling) do stworzenia kadłuba drona oraz licznych elementów pomocniczych, takich jak mocowania silników, 
-                nadbudówki, wieżyczka czy ramiona napędu powietrznego. Wybór tej technologii podyktowany był jej dostępnością, niskimi kosztami eksploatacji oraz możliwością 
-                szybkiego wprowadzania zmian konstrukcyjnych na podstawie testów pływalności i wyważenia.
+                3D printing technology played a fundamental role in the project, enabling rapid prototyping and the manufacturing of custom structural elements. 
+                We used FDM (Fused Deposition Modeling) technology to create the drone's hull and numerous auxiliary components, such as motor mounts, 
+                superstructures, a turret, and aerial propulsion arms. The choice of this technology was dictated by its availability, low operating costs, and the ability to 
+                quickly implement design changes based on buoyancy and balance tests.
             </p>
             <p>
-                Szczególne podziękowania kieruję do <strong>Wielkopolskiego Centrum Nowych Technologii</strong> za nieocenioną pomoc w realizacji tego projektu.
-                Udostępnienie zespołowi przemysłowej drukarki Dragon 3D oraz wsparcie materiałowe w postaci filamentu pozwoliło nam na wydrukowanie pełnowymiarowego kadłuba 
-                w jednym elemencie, co było kluczowe dla sukcesu całego przedsięwzięcia. 
-                Wasze wsparcie i otwartość na studenckie inicjatywy pozwoliły nam przekuć ambitny projekt w rzeczywistość.
+                Special thanks go to the <strong>Wielkopolskie Centrum Nowych Technologii</strong> (Greater Poland Center for Advanced Technologies) for their invaluable help in realizing this project.
+                Providing the team with an industrial Dragon 3D printer and material support in the form of filament allowed us to print the full-sized hull 
+                in one piece, which was crucial to the success of the entire endeavor. 
+                Your support and openness to student initiatives allowed us to turn an ambitious project into reality.
             </p>
             
-            <h2>Mój Wkład i Odpowiedzialność</h2>
+            <h2>My Contribution and Responsibilities</h2>
             <p>
-                W projekcie XR BINIU moim głównym zadaniem było zaprogramowanie modularnej architektury Sim2Real. 
-                Kluczem było tu stworzenie uniwersalnego "wirtualnego mózgu" (Breadboard), który oddziela logikę AI od fizycznego sprzętu.
-                Moja druga rola to implementacja i nadzór nad procesem uczenia przez wzmacnianie (Reinforcement Learning). Wykorzystałem do tego pakiet Unity ML-Agents.
+                In the XR BINIU project, my main task was programming the modular Sim2Real architecture. 
+                The key here was creating a universal "virtual brain" (Breadboard) that separates AI logic from physical hardware.
+                My second role was the implementation and supervision of the Reinforcement Learning process. I used the Unity ML-Agents package for this.
             </p>
-            <h2>Kluczowe Technologie i Umiejętności</h2>
+            <h2>Key Technologies and Skills</h2>
             <ul class="tech-stack">
                 <li>Unity</li>
-                <li>Uczenie maszynowe</li>
-                <li>Projektowanie dronów</li>
+                <li>Machine Learning</li>
+                <li>Drone Design</li>
                 <li>ESP32</li>
-                <li>C#, C++, python</li>
+                <li>C#, C++, Python</li>
             </ul>
-            <h2>Przyszłość projektu</h2>
+            <h2>Future of the Project</h2>
             <p>
-                Wodowanie drona wodnego było ogromnym sukcesem i potwierdzeniem poprawności naszej architektury Sim2Real. Obecnie, wraz z zespołem, 
-                podnosimy poprzeczkę i stosujemy te same zasady do znacznie bardziej ambitnego celu: nauczenia sztucznej inteligencji latania bicopterem.
-                Jest to niezwykle trudne wyzwanie, ponieważ dron dwuwirnikowy (wspomagany serwomechanizmami) jest z natury niestabilny. 
-                Ponownie, trenujemy agenta w precyzyjnej symulacji w Unity, zanim wdrożymy model na fizycznym urządzeniu
+                The launching of the water drone was a huge success and confirmation of the correctness of our Sim2Real architecture. Currently, together with the team, 
+                we are raising the bar and applying the same principles to a much more ambitious goal: teaching AI to fly a bicopter.
+                This is an extremely difficult challenge, as a dual-rotor drone (assisted by servomechanisms) is inherently unstable. 
+                Once again, we are training the agent in a precise Unity simulation before deploying the model on the physical device.
             </p>
 
             
         </section>
 
         <section id="project-gallery">
-            <h2>Galeria Zdjęć</h2>
+            <h2>Photo Gallery</h2>
             <div class="gallery">
                 <a href="img/Errno/Drony/20250602_143615.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/20250602_143615.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/20250602_143615.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
                 </a>
                 <a href="img/Errno/Drony/20250602_143633.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/20250602_143633.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/20250602_143633.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
                 </a>
                 <a href="img/Errno/Drony/20250609_143529.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/20250609_143529.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/20250609_143529.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
                 </a>
                 <a href="img/Errno/Drony/IMG-20250609-WA0000.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
-                </a>
                 </a>
                 <a href="img/Errno/Drony/20250602_144957.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/20250602_144957.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/20250602_144957.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
                 </a>
                 <a href="img/Errno/Drony/20250511_222628.jpg" target="_blank">
                 <div class="galleryElement">
-                    <img src="img-compressed/Errno/Drony/20250511_222628.webp" alt="Opis" class="galleryImage" loading="lazy">
+                    <img src="img-compressed/Errno/Drony/20250511_222628.webp" alt="Description" class="galleryImage" loading="lazy">
                 </div>
                 </a>
             </div>
         </section>
         
         <section id="project-links">
-            <h2>Powiązane Odnośniki</h2>
+            <h2>Related Links</h2>
             <ul class="external-links">
-                <li><a href="https://docs.google.com/document/d/1-k4Ll4qevaH445sVjVkQF32h3w11uCgUwEZ2eICMMHg/edit?usp=sharing" target="_blank">Raport projektowy</a></li>
+                <li><a href="https://docs.google.com/document/d/1-k4Ll4qevaH445sVjVkQF32h3w11uCgUwEZ2eICMMHg/edit?usp=sharing" target="_blank">Project Report</a></li>
             </ul>
         </section>
     </main>
