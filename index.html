@@ -1,8 +1,14 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Tagi językowe (SEO) -->
+    <link rel="alternate" hreflang="en" href="https://daxpl.github.io/" />
+    <link rel="alternate" hreflang="pl" href="https://daxpl.github.io/index-pl.html" />
+    <link rel="alternate" hreflang="x-default" href="https://daxpl.github.io/" />
+
     <link rel="stylesheet" href="styles.css">
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,10 +19,15 @@
 </head>
 <body>
 
+    <!-- Przełącznik języka -->
+    <div style="position: absolute; top: 20px; right: 20px; z-index: 1000;">
+        <a href="index-pl.html" style="text-decoration: none; font-size: 1.8rem; background: rgba(128,128,128,0.2); padding: 5px 10px; border-radius: 8px; backdrop-filter: blur(5px); transition: 0.3s;" title="Zmień język na polski">🇵🇱</a>
+    </div>
+
     <header class="hero-section">
-        <h1>Cześć, jestem Miłosz.</h1>
-        <p class="subtitle"><strong>Unity Developer | Integrator IT</strong><br>Zamieniam kod w interaktywne światy i aplikacje XR.</p>
-        <a href="Miłosz Klim - CV.pdf" class="cta-button">Pobierz moje CV</a>
+        <h1>Hi, I'm Miłosz.</h1>
+        <p class="subtitle"><strong>Unity Developer | IT Integrator</strong><br>I turn code into interactive worlds and XR applications.</p>
+        <a href="Miłosz Klim - CV EN.pdf" class="cta-button">Download my CV</a>
         <div class="social-links">
                 <a href="https://www.linkedin.com/in/miloszklim/" target="_blank">LinkedIn</a>
                 <a href="https://github.com/DAXPL" target="_blank">GitHub</a>
@@ -27,17 +38,17 @@
     <main>
         <!--Hero-->
         <section id="about">
-            <h2>O mnie</h2>
+            <h2>About Me</h2>
             <div class="about-content">
                 <div class="about-text">
                     <p>
-                        Moją przygodę z technologią na poważnie rozpocząłem w technikum, gdzie za działalność w kole Gites otrzymałem Złoty Wawrzyn – nagrodę, która przypomina mi, że ciężką pracą można osiągnąć wszystko. 
-                        To tam nauczyłem się najważniejszego: <strong>prawdziwa motywacja płynie z pasji.</strong> Tej zasady trzymam się do dziś, co pozwala mi łączyć pracę z tym, co kocham.
+                        My serious journey with technology began in technical school, where I received the Golden Laurel award for my activity in the Gites group – an award that reminds me that hard work makes anything possible. 
+                        That's where I learned the most important lesson: <strong>true motivation comes from passion.</strong> I stick to this principle to this day, which allows me to combine work with what I love.
                     </p>
                     <p>
-                        Moją największą pasją jest gamedev i technologie XR (VR/AR/MR). Im dziwniejsza technologia, tym lepiej! 
-                        Zakładałem własne studio Propaganda Studios oraz koło naukowe Errno, które zdobyło tytuł najlepszego na UAM w kategorii naukowej. 
-                        Od projektów LabVR dla szkół, przez uczenie AI pływania łodzią, aż po tworzenie gier na gamejamach czy nawet programowanie nakładek na broń palną – <strong>nie boję się wyzwań, bo każda potencjalna porażka to doświadczenie, które przekuwam w kolejny sukces.</strong>
+                        My greatest passion is gamedev and XR technologies (VR/AR/MR). The weirder the technology, the better! 
+                        I founded my own studio, Propaganda Studios, and the Errno science club, which won the title of the best science club at Adam Mickiewicz University in the scientific category. 
+                        From LabVR projects for schools, through teaching AI to navigate a boat, to creating games at game jams or even programming firearm overlays – <strong>I am not afraid of challenges, because every potential failure is an experience that I forge into my next success.</strong>
                     </p>
                 </div>
             </div>
@@ -45,26 +56,26 @@
 
         <!--Top projekty-->
         <section id="featured-projects">
-            <h2>Wybrane Projekty</h2>
+            <h2>Featured Projects</h2>
 
             <article class="project-case-study">
                 <div class="project-media">
-                    <iframe src="https://itch.io/embed/1708380"></iframe>
+                    <iframe src="https://itch.io/embed/1708380" loading="lazy"></iframe>
                 </div>
                 <div class="project-description">
                     <h3>SNS Minerwa</h3>
                     <p>
-                        Minerwa to wirtualna strzelnica zrealizowana na zlecenie technikum ZSE2, pozwalająca na bezpieczny trening strzelecki w warunkach szkolnych przy użyciu rzutnika i repliki karabinu. Sercem projektu jest innowacyjny system oparty na wizji maszynowej. Zamiast drogich laserów czy nadajników IR, na lufie umieszczona jest niewielka kamera. Obraz z niej jest analizowany przez algorytm wyszukujący specjalne markery na ekranie, co pozwala precyzyjnie określić celność strzału.
+                        Minerwa is a virtual shooting range developed for the ZSE2 technical school, allowing for safe shooting practice in a school environment using a projector and a rifle replica. The heart of the project is an innovative machine vision system. Instead of expensive lasers or IR transmitters, a small camera is mounted on the barrel. The image from it is analyzed by an algorithm that tracks special markers on the screen, allowing for precise shot accuracy calculation.
                     </p>
                     <ul class="tech-stack">
                         <li>Team leader</li>
                         <li>Unity</li>
                         <li>C#</li>
-                        <li>Programowanie AI</li>
-                        <li>Zarządzanie projektem</li>
+                        <li>AI Programming</li>
+                        <li>Project Management</li>
                     </ul>
                     <div class="project-links">
-                        <a href="https://propaganda-studios.itch.io/minerwa" target="_blank">Sprawdź projekt na Itch.io</a>
+                        <a href="https://propaganda-studios.itch.io/minerwa" target="_blank">Check out the project on Itch.io</a>
                     </div>
                 </div>
             </article>
@@ -72,18 +83,18 @@
 
         <!--Projekty-->
         <section id="experience">
-            <h2>Doświadczenie i Działalność</h2>
+            <h2>Experience and Activities</h2>
             <!--Propaganda-->
             <div class="project">
                 <h3>Propaganda Studios</h3>
                 <p>
-                    Grupa gamedevowa, którą współzałożyłem. Tworzymy gry (głównie na gamejamy) oraz aplikacje edukacyjne. Prowadzimy także warsztaty z Unity i modelowania 3D dla młodzieży, dzieląc się naszą pasją i wiedzą.
+                    A gamedev group I co-founded. We create games (mostly for game jams) and educational applications. We also conduct Unity and 3D modeling workshops for youth, sharing our passion and knowledge.
                 </p>
-                <a href="https://propaganda-studios.itch.io">Zobacz nasze gry na Itch.io</a>
+                <a href="https://propaganda-studios.itch.io">See our games on Itch.io</a>
                 <div class="gallery">
                     <a href="https://propaganda-studios.itch.io">
                         <div class="galleryElement">
-                            <img src="img-compressed/PGA/IMG_4429.webp" alt="Projekt 'PGA 2021'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/PGA/IMG_4429.webp" alt="Project 'PGA 2021'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
                                 <div class="galleryText">itch.io</div>
                             </div>
@@ -91,7 +102,7 @@
                     </a>
                     <a href="pga2021.html">
                         <div class="galleryElement">
-                            <img src="img-compressed/PGA/IMG_4439.webp" alt="Projekt 'PGA 2021'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/PGA/IMG_4439.webp" alt="Project 'PGA 2021'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
                                 <div class="galleryText">PGA 2021</div>
                             </div>
@@ -104,39 +115,39 @@
             <div class="project">
                 <h3>Flying Octopus</h3>
                 <p>
-                    Demokratyczny kolektyw gamedevowy, który stawia na samorealizację, autonomię i przyjazną atmosferę. W zespole, gdzie każdy ma realny wpływ na projekty, zajmowałem się głównie programowaniem gier w Unity. Odpowiadałem również za mentorowanie i prowadzenie praktyk dla nowych członków, dzieląc się swoją wiedzą.
+                    A democratic gamedev collective that focuses on self-realization, autonomy, and a friendly atmosphere. In a team where everyone has a real impact on projects, I was primarily responsible for programming games in Unity. I was also in charge of mentoring and running internships for new members, sharing my knowledge.
                 </p>
-                <a href="https://flyingoctopus.pl">Więcej o Flying Octopus</a>
+                <a href="https://flyingoctopus.pl">More about Flying Octopus</a>
             </div>
             <!--Gites-->
             <div class="project">
                 <h3>GITES</h3>
                 <p>
-                    Moja przygoda z poważnym IT. Zaczynałem jako "szeregowy" członek, szybko awansując na lidera grupy. Nauczyłem się tu C#, administracji sprzętem, druku 3D i wystąpień publicznych. Po ukończeniu technikum (z kwalifikacjami EE.08, EE.09 i Medalem Złotego Wawrzyna) objąłem rolę mentora, pomagając młodszym kolegom.
+                    My journey with serious IT. I started as a regular member, quickly advancing to group leader. I learned C#, hardware administration, 3D printing, and public speaking here. After graduating from technical school (with EE.08, EE.09 qualifications and the Golden Laurel Medal), I took on the role of a mentor, helping younger peers.
                 </p>
-                <a href="https://giteszse2.wixsite.com/dnt2">Więcej o grupie GITES</a>
+                <a href="https://giteszse2.wixsite.com/dnt2">More about the GITES group</a>
                 <div class="gallery">
                     <a href="czaszki.html">
                         <div class="galleryElement">
-                            <img src="img-compressed/Gites/Czaszki/czacha2.webp" alt="Projekt 'Tu się wszystko zaczęło'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Gites/Czaszki/czacha2.webp" alt="Project 'Where it all started'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
-                                <div class="galleryText">Projekt 'Tu się wszystko zaczęło'</div>
+                                <div class="galleryText">Project 'Where it all started'</div>
                             </div>
                         </div>
                     </a>
                      <a href="https://giteszse2.wixsite.com/dnt2">
                         <div class="galleryElement">
-                            <img src="img-compressed/Gites/DNT/DNT_2022_1.webp" alt="Projekt 'Dni nowych technologii'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Gites/DNT/DNT_2022_1.webp" alt="Project 'New Technology Days'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
-                                <div class="galleryText">Dni nowych technologii</div>
+                                <div class="galleryText">New Technology Days</div>
                             </div>
                         </div>
                     </a>
                     <a href="https://giteszse2.wixsite.com/dnt2">
                         <div class="galleryElement">
-                            <img src="img-compressed/Gites/Targi/Targi_2020_1.webp" alt="Udział w wydarzeniach" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Gites/Targi/Targi_2020_1.webp" alt="Participation in events" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
-                                <div class="galleryText">Wydarzenia</div>
+                                <div class="galleryText">Events</div>
                             </div>
                         </div>
                     </a>
@@ -144,24 +155,24 @@
             </div>
             <!--Errno-->
             <div class="project">
-                <h3>Studenckie Koło Naukowe "Errno"</h3>
+                <h3>Student Science Club "Errno"</h3>
                 <p>
-                    Na pierwszym roku studiów, tęskniąc za energią i praktycznym działaniem z Gitesu, postanowiłem założyć własne koło naukowe. 
-                    Tak powstało Errno przy Wydziale Fizyki UAM. Mimo trudnych początków i dużej ilości formalności , już po niecałym roku działalności zdobyliśmy tytuł najlepszego koła naukowego UAM w kategorii naukowej.
-                    Organizujemy warsztaty, prelekcje i projekty obejmujące różne dyscypliny IT. Naszym celem jest tworzenie środowiska współpracy, w którym członkowie mogą odkrywać swoje zainteresowania i rozwijać umiejętności. 
+                    In my first year of studies, missing the energy and practical action of Gites, I decided to start my own science club. 
+                    This is how Errno was founded at the Faculty of Physics, AMU. Despite a difficult start and a lot of paperwork, after less than a year of activity, we won the title of the best science club at AMU in the scientific category.
+                    We organize workshops, lectures, and projects covering various IT disciplines. Our goal is to create a collaborative environment where members can explore their interests and develop their skills. 
                 </p>
                 <div class="gallery">
                     <a href="https://www.facebook.com/Errno404">
                         <div class="galleryElement">
-                            <img src="img-compressed/Errno/errno1.webp" alt="Projekt 'Dzień kół naukowych'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Errno/errno1.webp" alt="Project 'Science Clubs Day'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
-                                <div class="galleryText">Wydarzenia</div>
+                                <div class="galleryText">Events</div>
                             </div>
                         </div>
                     </a>
                     <a href="https://itch.io/jam/pestkajam">
                         <div class="galleryElement">
-                            <img src="img-compressed/Errno/errno2.webp" alt="Gamejam 'PestkaJam'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Errno/errno2.webp" alt="Game jam 'PestkaJam'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
                                 <div class="galleryText">PestkaJam</div>
                             </div>
@@ -169,9 +180,9 @@
                     </a>
                     <a href="autonomiczneDrony.html">
                         <div class="galleryElement">
-                            <img src="img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Projekt dronów autonomicznych 'XR-BINIU'" class="galleryImage" loading="lazy">
+                            <img src="img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Autonomous drone project 'XR-BINIU'" class="galleryImage" loading="lazy">
                             <div class="galleryElementoverlay">
-                                <div class="galleryText">Autonomiczne drony</div>
+                                <div class="galleryText">Autonomous drones</div>
                             </div>
                         </div>
                     </a>
@@ -182,12 +193,12 @@
         
         <!--Kontakt-->
         <section id="contact">
-            <h2>Zbudujmy coś razem</h2>
+            <h2>Let's build something together</h2>
             <p>
-                Szukasz dewelopera Unity do swojego projektu? Chcesz porozmawiać o gamedevie? <br>
-                Napisz do mnie lub znajdź mnie w sieci.
+                Looking for a Unity developer for your project? Want to talk about gamedev? <br>
+                Drop me an email or find me online.
             </p>
-            <a href="mailto:klim.milosz@gmail.com" class="cta-button">Napisz e-mail</a>
+            <a href="mailto:klim.milosz@gmail.com" class="cta-button">Send an email</a>
             <div class="social-links">
                 <a href="https://www.linkedin.com/in/miloszklim/" target="_blank">LinkedIn</a>
                 <a href="https://github.com/DAXPL" target="_blank">GitHub</a>
