@@ -1,33 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "locations": [
     {
       "id": "Muzeum 1 id",
       "name": "Muzeum 1",
-      "sizeMB": 145,
-      "thumbnailUrl": "https://locus-forge.pl/thumbs/mnp_glowny.jpg",
-      "dataBaseUrl": "https://locus-forge.pl/data/mnp_glowny"
+      "sizeMB": 13,
+      "thumbnailUrl": "http://192.168.0.100/muzeum1/muzeum1prof.jpg",
+      "dataBaseUrl": "http://192.168.0.100/muzeum1/data.zip"
     },
     {
       "id": "Muzeum 2 id",
       "name": "Muzeum 2",
-      "sizeMB": 82,
-      "thumbnailUrl": "https://locus-forge.pl/thumbs/ck_zamek.jpg",
-      "dataBaseUrl": "https://locus-forge.pl/data/ck_zamek"
-    },
-    {
-      "id": "Muzeum 3 id",
-      "name": "Muzeum 3",
-      "sizeMB": 210,
-      "thumbnailUrl": "https://locus-forge.pl/thumbs/mbp.jpg",
-      "dataBaseUrl": "https://locus-forge.pl/data/mbp"
-    },
-    {
-      "id": "Muzeum 4 id",
-      "name": "Muzeum 4",
-      "sizeMB": 15,
-      "thumbnailUrl": "https://locus-forge.pl/thumbs/retro_it.jpg",
-      "dataBaseUrl": "https://api.zewnetrzneserwery.pl/locus/retro_it"
+      "sizeMB": 13,
+      "thumbnailUrl": "http://192.168.0.100/muzeum2/muzeum2prof.jpg",
+      "dataBaseUrl": "http://192.168.0.100/muzeum2/data.zip"
     }
   ]
 }
