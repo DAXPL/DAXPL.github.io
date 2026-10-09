@@ -1,0 +1,21 @@
+{{ $zoomSrc := "" }}
+{{ $src := . }}
+{{ if $src }}
+  {{ $srcClean := strings.TrimPrefix "/" $src }}
+  {{ if hasPrefix $srcClean "img-compressed/" }}
+    {{ $subPath := strings.TrimPrefix "img-compressed/" $srcClean }}
+    {{ $dotExt := path.Ext $subPath }}
+    {{ $baseWithoutExt := strings.TrimSuffix $dotExt $subPath }}
+    {{ range slice ".jpg" ".png" ".jpeg" ".webp" ".JPG" ".PNG" ".JPEG" }}
+      {{ if not $zoomSrc }}
+        {{ $testContent := printf "content/img/%s%s" $baseWithoutExt . }}
+        {{ $testStatic := printf "static/img/%s%s" $baseWithoutExt . }}
+        {{ if or (fileExists $testContent) (fileExists $testStatic) }}
+          {{ $zoomSrc = printf "/img/%s%s" $baseWithoutExt . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ return $zoomSrc }}
+
