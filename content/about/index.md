@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Discover my background, commercial and research experience, academic trajectory, and technical engineering stack."
+description: "Discover my background, commercial and research experience, education, and technical stack."
 cascade:
   showDate: false
   showAuthor: false
@@ -18,97 +18,44 @@ cascade:
 
 ---
 
-## Who Am I?
+## Hi, I'm Miłosz!
 
-For several years, I have been actively developing commercial and scientific applications in the fields of Virtual and Augmented Reality (**VR/AR/MR**) powered by **Unity 3D**. My primary language of choice is **C#**, backed by practical experience in **C/C++** (embedded microcontrollers, low-level drivers) and **Python** (Data Science, machine learning, computer vision).
+I feel most at home where the digital and physical worlds collide. Rather than staying confined to a code editor, I'm just as comfortable working with **Unity 3D**, diagnostic lab equipment, an inspection microscope, or a 3D printer.
 
-My greatest passion is gamedev and engineering non-standard solutions bridging physical and digital domains. The stranger the tech, the better! From educational VR platforms for schools, to training reinforcement learning agents to pilot autonomous maritime vessels via Sim2Real, to medical rehab software and firearm tracking overlays — **I don't shy away from ambitious challenges, because every obstacle is an experience forged into subsequent success.**
-
-My guiding philosophy started in technical school: **true motivation stems from passion.** I hold fast to this principle, continuously merging professional client work with academic R&D and community-driven initiatives.
+My rule of thumb is simple: **the more unconventional the technological problem, the more exciting the challenge.**
 
 ---
 
-## Professional & R&D Experience
+### Where It All Began
 
-### IT Solutions Integrator / Lead Unity Developer
-**Komputronik Biznes (R&D Division)** | *Apr 2024 – Jan 2026*
-* Deployed commercial R&D software powered by Unity 3D.
-* **Wiktor Dega Orthopedic & Rehabilitation Hospital in Poznań:** Architected and deployed an interactive VR therapeutic environment aiding pediatric rehabilitation.
-* **Circular Fashion Retail Chain:** Engineered a modern business application backed by artificial intelligence algorithms.
+My journey with technology started with bare-metal hardware. In technical high school, I learned computer architecture from the ground up — diagnosing faulty motherboards and working in hardware repair shops (both in Poland and during an internship in Italy). That's also when I first dove into 3D printing, collaborating on an anthropological skull reconstruction project with the Archaeological Museum, where FDM technology slashed model production costs several-fold.
 
-### Unity 3D Developer
-**Flying Octopus** | *Jun 2021 – Jun 2025*
-* Programmed gameplay mechanics and systems in C# within an autonomous gamedev collective.
-* Governed architecture scalability, rendering optimization, and multiplayer synchronization.
-* Mentored junior developers, coordinated code reviews, and managed technical onboarding.
+Over time, I wanted to breathe digital life into hardware. Transitioning to **gamedev, along with Virtual and Augmented Reality (VR/AR)**, was a natural next step, which I paired with my Bachelor's and Master's engineering studies at the Faculty of Physics at Adam Mickiewicz University in Poznań.
 
-### Founder, Vice-President & Digital Realities Section Lead
-**Errno Student Science Club (Faculty of Physics, AMU)** | *2022 – 2026*
-* Founded the research circle during my freshman year, leading it to win **Best Science Club at AMU in the Scientific Category** within its first year.
-* Directed R&D projects encompassing XR headsets, autonomous maritime drones (WST), and machine learning (Unity ML-Agents).
-* Spearheaded nationwide educational workshops and organized the 72-hour *Pestka Jam* hackathon.
-
-### Group Leader & Technical Mentor
-**GITES Science Club (ZSE2 Poznań)** | *2017 – 2021*
-* Advanced from active member to team leader; mastered C# programming, hardware system administration, and 3D printing.
-* Spearheaded FDM 3D printing for the anthropological skull reconstruction project (*"Where It All Started"*) in partnership with the Archaeological Museum, lowering production costs 15-fold.
-* Graduated technical school with the school's highest honor, the **Golden Laurel Medal**, transitioning to an advisory mentor role.
-
-### Education & Academic Outreach
-**Elementary School No. 67 & Adam Mickiewicz University** | *Feb 2023 – Jun 2024*
-* **Physics Teacher (SP67):** Introduced FDM 3D printing and Photon robotics into regular physics curricula, fusing theoretical concepts with live engineering experiments.
-* **Academic Teaching Assistant (AMU):** Provided sustained 1-on-1 pedagogical and academic support for a student on the autism spectrum.
-
-### Hardware Internships & Service Engineering
-* **PC Service di Riccardo Greco (Ravenna, Italy, 2019):** International professional internship in motherboard diagnostics and hardware restoration.
-* **NaprawiamyLaptopy.pl (Poznań, 2019):** Microscopic motherboard repair, SMD/BGA soldering, and component diagnostics.
-* **KomputerSerwis (Poznań, 2019):** Workstation maintenance and enterprise hardware servicing.
+Today, I leverage this unique intersection — physics, electronics, and software engineering — to build systems that don't just look good on a screen, but genuinely interact with people in the real world.
 
 ---
 
-## 🎓 Education
+### What I Do
 
-* **Internet of Things Applications (M.Sc. Eng.)**  
-  *Faculty of Physics and Astronomy, Adam Mickiewicz University in Poznań* (Feb 2025 – Jul 2026)  
-  Master's thesis: *Investigating physiological correlations between human biometrics and subjective immersion in digital realities* (Supervised by Prof. Sławomir Mamica).
-* **Computer Technologies (B.Eng.)**  
-  *Faculty of Physics and Astronomy, Adam Mickiewicz University in Poznań* (Oct 2021 – Feb 2025)  
-  Engineering capstone: *Cooperative VR spaceship simulator "Rouge Squadron" and clinical biometric immersion testing (Empatica E4)*.
-* **Pedagogical Faculty (Physics Education)**  
-  *Faculty of Physics and Astronomy, Adam Mickiewicz University in Poznań* (Oct 2021 – Feb 2025)
-* **IT Technician (EE.08, EE.09 Certifications)**  
-  *ZSE2 Technical High School, Poznań* (Sep 2017 – May 2021)  
-  Graduated with highest honors and the **Golden Laurel Medal**.
+#### 🥽 Immersive XR & Unity
+I architect and optimize virtual reality applications in **Unity (C#)** — with a strong focus on standalone platforms (Meta Quest). In an R&D environment, I designed commercial VR solutions supporting pediatric rehabilitation for the Wiktor Dega Orthopedic & Rehabilitation Hospital in Poznań. In academia, I researched immersion depth in cooperative simulators, tracking physiological responses using medical-grade biometric sensors (Empatica E4).
 
----
+#### ⚡ Hardware, IoT & Rapid Prototyping
+I interface microcontrollers (ESP32, STM32, Arduino) with real-time software systems. Whenever a project requires custom enclosures, sensor mounts, or bespoke physical controllers, I design and fabricate them in-house using 3D printing (FDM).
 
-## 🛠️ Technical Competency & Engineering Stack
+#### 🧠 Machine Learning & Artificial Intelligence
+I am fascinated by Reinforcement Learning and bridging the gap between simulation and the real world (Sim2Real). Using Unity ML-Agents, I have trained autonomous AI agents for tasks like vehicle navigation.
 
-* **Gamedev & XR:** Unity 3D & C# (advanced), Meta SDK (Meta Quest 2 & 3 standalone / Android ARM, PCVR), Netcode for GameObjects (client-server & RPC networking), URP & HDRP (draw call batching, Shader Graph, AMD FSR), foundational knowledge of Godot & Unreal Engine 5 (C++).
-* **Artificial Intelligence & ML:** Unity ML-Agents Toolkit (Reinforcement Learning), Sim2Real, local LLM orchestration (Ollama, OpenAI API), Python (NumPy, Pandas, scikit-learn, OpenCV).
-* **Embedded Electronics & IoT:** ESP32 & Arduino microcontrollers, cellular GSM/LTE, VPN routing, WebSockets, biometric sensory hardware (EDA, HR, temperature), Siemens TIA Portal, LabVIEW.
-* **Rapid Prototyping:** FDM 3D Printing (advanced slicing, structural design, machine calibration on Accura and Dragon 3D industrial machines).
-* **Infrastructure & Systems:** Linux (Debian, Ubuntu), Windows Server, TCP/IP networking, Git / GitHub, SQL & MariaDB databases.
+I also don't overlook modern artificial intelligence. However, I am keenly aware of its power as well as the risks it entails. I am not a fan of opaque "black-box" systems or questionable corporate policies, so whenever possible, I prioritize local models and open-source (FOSS) solutions.
 
 ---
 
-## 📜 Certifications & Credentials
+### Let's Talk!
 
-* **Unity:** VR Development, Junior Programmer
-* **Cisco Networking Academy:** CCNA R&S (Routing & Switching), CPA (C++), PCAP (Python), IoT Fundamentals, Cybersecurity, IT Essentials, Get Connected
-* **Udemy:** C#.NET (WPF & XAML), Beginning C++, Unreal Engine 5 C++ Developer
-* **Google:** Fundamentals of Digital Marketing, Google Analytics
+Have an idea for an unconventional XR application, need a prototype bridging electronics with software, or simply want to chat about technology?
 
----
-
-## 📬 Contact & Inquiries
-
-Interested in discussing an XR project, consulting on Sim2Real robotics, booking a technical lecture, or exploring collaboration?
-
-* **Email:** [klim.milosz@gmail.com](mailto:klim.milosz@gmail.com)
-* **Phone:** +48 512 202 946
-* **Location:** Poznań, Poland
-* **LinkedIn:** [linkedin.com/in/miloszklim/](https://www.linkedin.com/in/miloszklim/)
-* **GitHub:** [github.com/DAXPL](https://github.com/DAXPL)
-* **Itch.io:** [daxpl.itch.io](https://daxpl.itch.io/)
-
+* ✉️ **Email:** [klim.milosz@gmail.com](mailto:klim.milosz@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/miloszklim/](https://www.linkedin.com/in/miloszklim/)
+* 🐙 **GitHub:** [github.com/DAXPL](https://github.com/DAXPL)
+* 🎮 **Itch.io:** [daxpl.itch.io](https://daxpl.itch.io/)
