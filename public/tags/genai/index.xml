@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenAI on Miłosz Klim</title>
+    <link>https://daxpl.github.io/tags/genai/</link>
+    <description>Recent content in GenAI on Miłosz Klim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
+    <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
+    <copyright>© 2026 Miłosz Klim</copyright>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/genai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biofeedback &amp; Multisensory Immersion in VR (Master&#39;s Thesis)</title>
+      <link>https://daxpl.github.io/projects/green-hour/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/green-hour/</guid>
+      <description>An R&amp;amp;D environment investigating physiological correlations between human biometrics and subjective VR/PC flow states, featuring ESP32 telemetry, a custom Olfactory Display, and Python data science.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

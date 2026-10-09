@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Organization on Miłosz Klim</title>
+    <link>https://daxpl.github.io/tags/event-organization/</link>
+    <description>Recent content in Event Organization on Miłosz Klim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
+    <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
+    <copyright>© 2026 Miłosz Klim</copyright>
+    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/event-organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Technology Days: Multi-Year Innovation Festival (2019–2026)</title>
+      <link>https://daxpl.github.io/posts/dnt-nowe-technologie/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/posts/dnt-nowe-technologie/</guid>
+      <description>Co-organizing every edition of New Technology Days: hands-on hardware workshops, 3D printing labs, Unity demos, and connecting high schoolers with university research.</description>
+      
+    </item>
+    
+    <item>
+      <title>Pestka Jam: 72-Hour Game Jam Organization &amp; Developer Mentoring</title>
+      <link>https://daxpl.github.io/posts/pestka-jam/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/posts/pestka-jam/</guid>
+      <description>Behind the scenes of organizing Pestka Jam with the Errno science club – 72 hours of intensive prototyping, technical mentoring, and game production.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

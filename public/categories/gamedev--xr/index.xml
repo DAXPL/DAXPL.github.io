@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamedev &amp; XR on Miłosz Klim</title>
+    <link>https://daxpl.github.io/categories/gamedev--xr/</link>
+    <description>Recent content in Gamedev &amp; XR on Miłosz Klim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
+    <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
+    <copyright>© 2026 Miłosz Klim</copyright>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/categories/gamedev--xr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biofeedback &amp; Multisensory Immersion in VR (Master&#39;s Thesis)</title>
+      <link>https://daxpl.github.io/projects/green-hour/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/green-hour/</guid>
+      <description>An R&amp;amp;D environment investigating physiological correlations between human biometrics and subjective VR/PC flow states, featuring ESP32 telemetry, a custom Olfactory Display, and Python data science.</description>
+      
+    </item>
+    
+    <item>
+      <title>VR Simulator &#34;Rouge Squadron&#34; &amp; Biometric Research</title>
+      <link>https://daxpl.github.io/projects/rouge-squadron/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/rouge-squadron/</guid>
+      <description>An advanced cooperative VR spaceship simulator (LAN Multiplayer / Netcode) paired with clinical biometric research measuring player stress (EDA) and presence in VR.</description>
+      
+    </item>
+    
+    <item>
+      <title>Pestka Jam: 72-Hour Game Jam Organization &amp; Developer Mentoring</title>
+      <link>https://daxpl.github.io/posts/pestka-jam/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/posts/pestka-jam/</guid>
+      <description>Behind the scenes of organizing Pestka Jam with the Errno science club – 72 hours of intensive prototyping, technical mentoring, and game production.</description>
+      
+    </item>
+    
+    <item>
+      <title>LAB-VR - Open-Source Educational VR Platform</title>
+      <link>https://daxpl.github.io/projects/labvr/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/labvr/</guid>
+      <description>An open-source classroom simulation in Virtual Reality (physics, astronomy, geology, hardware engineering) funded by Kowadło 2.0 and deployed across schools in Poland.</description>
+      
+    </item>
+    
+    <item>
+      <title>SNS Minerwa - Virtual Shooting Range</title>
+      <link>https://daxpl.github.io/projects/minerwa/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/minerwa/</guid>
+      <description>An innovative virtual shooting training system based on computer vision, ESP32 rifle replica modifications, and Unity 3D.</description>
+      
+    </item>
+    
+    <item>
+      <title>Poznań Game Arena 2021 - Indie Booth Case Study &amp; &#34;Poszutex&#34;</title>
+      <link>https://daxpl.github.io/posts/pga-2021/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/posts/pga-2021/</guid>
+      <description>A case study detailing Propaganda Studios&amp;rsquo; indie booth at PGA 2021: welcoming hundreds of players, gathering real-time feedback, and shipping overnight bug fixes.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
