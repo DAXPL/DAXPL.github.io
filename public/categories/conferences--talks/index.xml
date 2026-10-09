@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences &amp; Talks on Miłosz Klim</title>
-    <link>https://daxpl.github.io/categories/conferences--talks/</link>
+    <link>http://localhost:1313/categories/conferences--talks/</link>
     <description>Recent content in Conferences &amp; Talks on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/categories/conferences--talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/conferences--talks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing (OCETA Lounge 2026)</title>
-      <link>https://daxpl.github.io/posts/oceta-2026-zero-trust-ai/</link>
+      <link>http://localhost:1313/posts/oceta-2026-zero-trust-ai/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2026-zero-trust-ai/</guid>
+      <guid>http://localhost:1313/posts/oceta-2026-zero-trust-ai/</guid>
       <description>A talk at OCETA Lounge detailing Zero-Trust AI architectures – processing sensitive biometric and telemetry data entirely on-device using Ollama and local open-weight LLMs.</description>
       
     </item>
     
     <item>
       <title>HARDWARE SOVEREIGNTY: Creating Custom Devices with AI Agents (OCETA Connect 2026)</title>
-      <link>https://daxpl.github.io/posts/oceta-2026-hardware-sovereignty/</link>
+      <link>http://localhost:1313/posts/oceta-2026-hardware-sovereignty/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2026-hardware-sovereignty/</guid>
+      <guid>http://localhost:1313/posts/oceta-2026-hardware-sovereignty/</guid>
       <description>A talk and discussion panel at OCETA Connect on engineering bespoke embedded devices using AI agents to achieve complete data security and hardware independence.</description>
       
     </item>
     
     <item>
       <title>Experiencing Immersion in Virtual Realities &amp; Techniques for Deepening Presence (OCETA 2025)</title>
-      <link>https://daxpl.github.io/posts/oceta-2025-immersja-xr/</link>
+      <link>http://localhost:1313/posts/oceta-2025-immersja-xr/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2025-immersja-xr/</guid>
+      <guid>http://localhost:1313/posts/oceta-2025-immersja-xr/</guid>
       <description>A conference talk delivered at OCETA exploring embodied presence in XR, physiological biometric measurements of immersion, and practical techniques for spatial depth.</description>
       
     </item>

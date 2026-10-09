@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shader Graph on Miłosz Klim</title>
-    <link>https://daxpl.github.io/tags/shader-graph/</link>
+    <link>http://localhost:1313/tags/shader-graph/</link>
     <description>Recent content in Shader Graph on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/shader-graph/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/shader-graph/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>VR Simulator &#34;Rouge Squadron&#34; &amp; Biometric Research</title>
-      <link>https://daxpl.github.io/projects/rouge-squadron/</link>
+      <link>http://localhost:1313/projects/rouge-squadron/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/projects/rouge-squadron/</guid>
+      <guid>http://localhost:1313/projects/rouge-squadron/</guid>
       <description>An advanced cooperative VR spaceship simulator (LAN Multiplayer / Netcode) paired with clinical biometric research measuring player stress (EDA) and presence in VR.</description>
       
     </item>

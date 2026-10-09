@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on Miłosz Klim</title>
-    <link>https://daxpl.github.io/categories/education/</link>
+    <link>http://localhost:1313/categories/education/</link>
     <description>Recent content in Education on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/education/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>LAB-VR - Open-Source Educational VR Platform</title>
-      <link>https://daxpl.github.io/projects/labvr/</link>
+      <link>http://localhost:1313/projects/labvr/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/projects/labvr/</guid>
+      <guid>http://localhost:1313/projects/labvr/</guid>
       <description>An open-source classroom simulation in Virtual Reality (physics, astronomy, geology, hardware engineering) funded by Kowadło 2.0 and deployed across schools in Poland.</description>
       
     </item>

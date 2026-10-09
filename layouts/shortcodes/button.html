@@ -1,0 +1,21 @@
+{{- $href := "" -}}
+{{- with .Get "pageRef" -}}
+  {{- $href = relref $.Page . -}}
+{{- else -}}
+  {{- $href = $.Get "href" -}}
+{{- end -}}
+{{- $style := .Get "style" | default "primary" -}}
+{{- $target := .Get "target" -}}
+{{- $rel := .Get "rel" -}}
+{{- if and (eq $target "_blank") (not $rel) -}}
+  {{- $rel = "noopener noreferrer" -}}
+{{- end -}}
+<a
+  class="site-btn site-btn-{{ $style }}"
+  {{ with $href }}href="{{ . }}"{{ end }}
+  {{ with $target }}target="{{ . }}"{{ end }}
+  {{ with $rel }}rel="{{ . }}"{{ end }}
+  role="button">
+  <span>{{ .Inner | markdownify }}</span>
+</a>
+

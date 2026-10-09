@@ -2,691 +2,691 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Miłosz Klim</title>
-    <link>https://daxpl.github.io/pl/tags/</link>
+    <link>http://localhost:1313/pl/tags/</link>
     <description>Recent content in Tags on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fantastyczny UAM</title>
-      <link>https://daxpl.github.io/pl/tags/fantastyczny-uam/</link>
+      <link>http://localhost:1313/pl/tags/fantastyczny-uam/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/fantastyczny-uam/</guid>
+      <guid>http://localhost:1313/pl/tags/fantastyczny-uam/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Festiwal</title>
-      <link>https://daxpl.github.io/pl/tags/festiwal/</link>
+      <link>http://localhost:1313/pl/tags/festiwal/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/festiwal/</guid>
+      <guid>http://localhost:1313/pl/tags/festiwal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>MR</title>
-      <link>https://daxpl.github.io/pl/tags/mr/</link>
+      <link>http://localhost:1313/pl/tags/mr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/mr/</guid>
+      <guid>http://localhost:1313/pl/tags/mr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Prezentacja</title>
-      <link>https://daxpl.github.io/pl/tags/prezentacja/</link>
+      <link>http://localhost:1313/pl/tags/prezentacja/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/prezentacja/</guid>
+      <guid>http://localhost:1313/pl/tags/prezentacja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VR</title>
-      <link>https://daxpl.github.io/pl/tags/vr/</link>
+      <link>http://localhost:1313/pl/tags/vr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/vr/</guid>
+      <guid>http://localhost:1313/pl/tags/vr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wystawa</title>
-      <link>https://daxpl.github.io/pl/tags/wystawa/</link>
+      <link>http://localhost:1313/pl/tags/wystawa/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/wystawa/</guid>
+      <guid>http://localhost:1313/pl/tags/wystawa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>XR</title>
-      <link>https://daxpl.github.io/pl/tags/xr/</link>
+      <link>http://localhost:1313/pl/tags/xr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/xr/</guid>
+      <guid>http://localhost:1313/pl/tags/xr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI</title>
-      <link>https://daxpl.github.io/pl/tags/ai/</link>
+      <link>http://localhost:1313/pl/tags/ai/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/ai/</guid>
+      <guid>http://localhost:1313/pl/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Konferencja</title>
-      <link>https://daxpl.github.io/pl/tags/konferencja/</link>
+      <link>http://localhost:1313/pl/tags/konferencja/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/konferencja/</guid>
+      <guid>http://localhost:1313/pl/tags/konferencja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLM</title>
-      <link>https://daxpl.github.io/pl/tags/llm/</link>
+      <link>http://localhost:1313/pl/tags/llm/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/llm/</guid>
+      <guid>http://localhost:1313/pl/tags/llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ollama</title>
-      <link>https://daxpl.github.io/pl/tags/ollama/</link>
+      <link>http://localhost:1313/pl/tags/ollama/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/ollama/</guid>
+      <guid>http://localhost:1313/pl/tags/ollama/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Prelekcja</title>
-      <link>https://daxpl.github.io/pl/tags/prelekcja/</link>
+      <link>http://localhost:1313/pl/tags/prelekcja/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/prelekcja/</guid>
+      <guid>http://localhost:1313/pl/tags/prelekcja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://daxpl.github.io/pl/tags/security/</link>
+      <link>http://localhost:1313/pl/tags/security/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/security/</guid>
+      <guid>http://localhost:1313/pl/tags/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zero-Trust</title>
-      <link>https://daxpl.github.io/pl/tags/zero-trust/</link>
+      <link>http://localhost:1313/pl/tags/zero-trust/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/zero-trust/</guid>
+      <guid>http://localhost:1313/pl/tags/zero-trust/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Biofeedback</title>
-      <link>https://daxpl.github.io/pl/tags/biofeedback/</link>
+      <link>http://localhost:1313/pl/tags/biofeedback/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/biofeedback/</guid>
+      <guid>http://localhost:1313/pl/tags/biofeedback/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C#</title>
-      <link>https://daxpl.github.io/pl/tags/c%23/</link>
+      <link>http://localhost:1313/pl/tags/c%23/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/c%23/</guid>
+      <guid>http://localhost:1313/pl/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://daxpl.github.io/pl/tags/data-science/</link>
+      <link>http://localhost:1313/pl/tags/data-science/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/data-science/</guid>
+      <guid>http://localhost:1313/pl/tags/data-science/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ESP32</title>
-      <link>https://daxpl.github.io/pl/tags/esp32/</link>
+      <link>http://localhost:1313/pl/tags/esp32/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/esp32/</guid>
+      <guid>http://localhost:1313/pl/tags/esp32/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GenAI</title>
-      <link>https://daxpl.github.io/pl/tags/genai/</link>
+      <link>http://localhost:1313/pl/tags/genai/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/genai/</guid>
+      <guid>http://localhost:1313/pl/tags/genai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>IoT</title>
-      <link>https://daxpl.github.io/pl/tags/iot/</link>
+      <link>http://localhost:1313/pl/tags/iot/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/iot/</guid>
+      <guid>http://localhost:1313/pl/tags/iot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://daxpl.github.io/pl/tags/pandas/</link>
+      <link>http://localhost:1313/pl/tags/pandas/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/pandas/</guid>
+      <guid>http://localhost:1313/pl/tags/pandas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://daxpl.github.io/pl/tags/python/</link>
+      <link>http://localhost:1313/pl/tags/python/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/python/</guid>
+      <guid>http://localhost:1313/pl/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>R&amp;D</title>
-      <link>https://daxpl.github.io/pl/tags/rd/</link>
+      <link>http://localhost:1313/pl/tags/rd/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/rd/</guid>
+      <guid>http://localhost:1313/pl/tags/rd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sensory Biometryczne</title>
-      <link>https://daxpl.github.io/pl/tags/sensory-biometryczne/</link>
+      <link>http://localhost:1313/pl/tags/sensory-biometryczne/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/sensory-biometryczne/</guid>
+      <guid>http://localhost:1313/pl/tags/sensory-biometryczne/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity 3D</title>
-      <link>https://daxpl.github.io/pl/tags/unity-3d/</link>
+      <link>http://localhost:1313/pl/tags/unity-3d/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/unity-3d/</guid>
+      <guid>http://localhost:1313/pl/tags/unity-3d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hardware</title>
-      <link>https://daxpl.github.io/pl/tags/hardware/</link>
+      <link>http://localhost:1313/pl/tags/hardware/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/hardware/</guid>
+      <guid>http://localhost:1313/pl/tags/hardware/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Wystąpienie Publiczne</title>
-      <link>https://daxpl.github.io/pl/tags/wyst%C4%85pienie-publiczne/</link>
+      <link>http://localhost:1313/pl/tags/wyst%C4%85pienie-publiczne/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/wyst%C4%85pienie-publiczne/</guid>
+      <guid>http://localhost:1313/pl/tags/wyst%C4%85pienie-publiczne/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Edukacja</title>
-      <link>https://daxpl.github.io/pl/tags/edukacja/</link>
+      <link>http://localhost:1313/pl/tags/edukacja/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/edukacja/</guid>
+      <guid>http://localhost:1313/pl/tags/edukacja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>GITES</title>
-      <link>https://daxpl.github.io/pl/tags/gites/</link>
+      <link>http://localhost:1313/pl/tags/gites/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/gites/</guid>
+      <guid>http://localhost:1313/pl/tags/gites/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Organizacja Wydarzeń</title>
-      <link>https://daxpl.github.io/pl/tags/organizacja-wydarze%C5%84/</link>
+      <link>http://localhost:1313/pl/tags/organizacja-wydarze%C5%84/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/organizacja-wydarze%C5%84/</guid>
+      <guid>http://localhost:1313/pl/tags/organizacja-wydarze%C5%84/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Technologie</title>
-      <link>https://daxpl.github.io/pl/tags/technologie/</link>
+      <link>http://localhost:1313/pl/tags/technologie/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/technologie/</guid>
+      <guid>http://localhost:1313/pl/tags/technologie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>UAM</title>
-      <link>https://daxpl.github.io/pl/tags/uam/</link>
+      <link>http://localhost:1313/pl/tags/uam/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/uam/</guid>
+      <guid>http://localhost:1313/pl/tags/uam/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Zarządzanie</title>
-      <link>https://daxpl.github.io/pl/tags/zarz%C4%85dzanie/</link>
+      <link>http://localhost:1313/pl/tags/zarz%C4%85dzanie/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/zarz%C4%85dzanie/</guid>
+      <guid>http://localhost:1313/pl/tags/zarz%C4%85dzanie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Biometria</title>
-      <link>https://daxpl.github.io/pl/tags/biometria/</link>
+      <link>http://localhost:1313/pl/tags/biometria/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/biometria/</guid>
+      <guid>http://localhost:1313/pl/tags/biometria/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Embodied Presence</title>
-      <link>https://daxpl.github.io/pl/tags/embodied-presence/</link>
+      <link>http://localhost:1313/pl/tags/embodied-presence/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/embodied-presence/</guid>
+      <guid>http://localhost:1313/pl/tags/embodied-presence/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://daxpl.github.io/pl/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/pl/tags/c&#43;&#43;/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/pl/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Drony</title>
-      <link>https://daxpl.github.io/pl/tags/drony/</link>
+      <link>http://localhost:1313/pl/tags/drony/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/drony/</guid>
+      <guid>http://localhost:1313/pl/tags/drony/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Druk 3D</title>
-      <link>https://daxpl.github.io/pl/tags/druk-3d/</link>
+      <link>http://localhost:1313/pl/tags/druk-3d/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/druk-3d/</guid>
+      <guid>http://localhost:1313/pl/tags/druk-3d/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ML-Agents</title>
-      <link>https://daxpl.github.io/pl/tags/ml-agents/</link>
+      <link>http://localhost:1313/pl/tags/ml-agents/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/ml-agents/</guid>
+      <guid>http://localhost:1313/pl/tags/ml-agents/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open-Source</title>
-      <link>https://daxpl.github.io/pl/tags/open-source/</link>
+      <link>http://localhost:1313/pl/tags/open-source/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/open-source/</guid>
+      <guid>http://localhost:1313/pl/tags/open-source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Reinforcement Learning</title>
-      <link>https://daxpl.github.io/pl/tags/reinforcement-learning/</link>
+      <link>http://localhost:1313/pl/tags/reinforcement-learning/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/reinforcement-learning/</guid>
+      <guid>http://localhost:1313/pl/tags/reinforcement-learning/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sim2Real</title>
-      <link>https://daxpl.github.io/pl/tags/sim2real/</link>
+      <link>http://localhost:1313/pl/tags/sim2real/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/sim2real/</guid>
+      <guid>http://localhost:1313/pl/tags/sim2real/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity 6</title>
-      <link>https://daxpl.github.io/pl/tags/unity-6/</link>
+      <link>http://localhost:1313/pl/tags/unity-6/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/unity-6/</guid>
+      <guid>http://localhost:1313/pl/tags/unity-6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Badania R&amp;D</title>
-      <link>https://daxpl.github.io/pl/tags/badania-rd/</link>
+      <link>http://localhost:1313/pl/tags/badania-rd/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/badania-rd/</guid>
+      <guid>http://localhost:1313/pl/tags/badania-rd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Multiplayer</title>
-      <link>https://daxpl.github.io/pl/tags/multiplayer/</link>
+      <link>http://localhost:1313/pl/tags/multiplayer/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/multiplayer/</guid>
+      <guid>http://localhost:1313/pl/tags/multiplayer/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Netcode for GameObjects</title>
-      <link>https://daxpl.github.io/pl/tags/netcode-for-gameobjects/</link>
+      <link>http://localhost:1313/pl/tags/netcode-for-gameobjects/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/netcode-for-gameobjects/</guid>
+      <guid>http://localhost:1313/pl/tags/netcode-for-gameobjects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shader Graph</title>
-      <link>https://daxpl.github.io/pl/tags/shader-graph/</link>
+      <link>http://localhost:1313/pl/tags/shader-graph/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/shader-graph/</guid>
+      <guid>http://localhost:1313/pl/tags/shader-graph/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Symulator</title>
-      <link>https://daxpl.github.io/pl/tags/symulator/</link>
+      <link>http://localhost:1313/pl/tags/symulator/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/symulator/</guid>
+      <guid>http://localhost:1313/pl/tags/symulator/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>URP</title>
-      <link>https://daxpl.github.io/pl/tags/urp/</link>
+      <link>http://localhost:1313/pl/tags/urp/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/urp/</guid>
+      <guid>http://localhost:1313/pl/tags/urp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Popularyzacja Nauki</title>
-      <link>https://daxpl.github.io/pl/tags/popularyzacja-nauki/</link>
+      <link>http://localhost:1313/pl/tags/popularyzacja-nauki/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/popularyzacja-nauki/</guid>
+      <guid>http://localhost:1313/pl/tags/popularyzacja-nauki/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Warsztaty</title>
-      <link>https://daxpl.github.io/pl/tags/warsztaty/</link>
+      <link>http://localhost:1313/pl/tags/warsztaty/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/warsztaty/</guid>
+      <guid>http://localhost:1313/pl/tags/warsztaty/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Game Jam</title>
-      <link>https://daxpl.github.io/pl/tags/game-jam/</link>
+      <link>http://localhost:1313/pl/tags/game-jam/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/game-jam/</guid>
+      <guid>http://localhost:1313/pl/tags/game-jam/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gamedev</title>
-      <link>https://daxpl.github.io/pl/tags/gamedev/</link>
+      <link>http://localhost:1313/pl/tags/gamedev/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/gamedev/</guid>
+      <guid>http://localhost:1313/pl/tags/gamedev/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mentoring</title>
-      <link>https://daxpl.github.io/pl/tags/mentoring/</link>
+      <link>http://localhost:1313/pl/tags/mentoring/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/mentoring/</guid>
+      <guid>http://localhost:1313/pl/tags/mentoring/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SKN Errno</title>
-      <link>https://daxpl.github.io/pl/tags/skn-errno/</link>
+      <link>http://localhost:1313/pl/tags/skn-errno/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/skn-errno/</guid>
+      <guid>http://localhost:1313/pl/tags/skn-errno/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>https://daxpl.github.io/pl/tags/unity/</link>
+      <link>http://localhost:1313/pl/tags/unity/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/unity/</guid>
+      <guid>http://localhost:1313/pl/tags/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://daxpl.github.io/pl/tags/android/</link>
+      <link>http://localhost:1313/pl/tags/android/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/android/</guid>
+      <guid>http://localhost:1313/pl/tags/android/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Meta Quest 2</title>
-      <link>https://daxpl.github.io/pl/tags/meta-quest-2/</link>
+      <link>http://localhost:1313/pl/tags/meta-quest-2/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/meta-quest-2/</guid>
+      <guid>http://localhost:1313/pl/tags/meta-quest-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>https://daxpl.github.io/pl/tags/computer-vision/</link>
+      <link>http://localhost:1313/pl/tags/computer-vision/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/pl/tags/computer-vision/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Case Study</title>
-      <link>https://daxpl.github.io/pl/tags/case-study/</link>
+      <link>http://localhost:1313/pl/tags/case-study/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/case-study/</guid>
+      <guid>http://localhost:1313/pl/tags/case-study/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Indie</title>
-      <link>https://daxpl.github.io/pl/tags/indie/</link>
+      <link>http://localhost:1313/pl/tags/indie/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/indie/</guid>
+      <guid>http://localhost:1313/pl/tags/indie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PGA</title>
-      <link>https://daxpl.github.io/pl/tags/pga/</link>
+      <link>http://localhost:1313/pl/tags/pga/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/pga/</guid>
+      <guid>http://localhost:1313/pl/tags/pga/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>FDM</title>
-      <link>https://daxpl.github.io/pl/tags/fdm/</link>
+      <link>http://localhost:1313/pl/tags/fdm/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/fdm/</guid>
+      <guid>http://localhost:1313/pl/tags/fdm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Historia</title>
-      <link>https://daxpl.github.io/pl/tags/historia/</link>
+      <link>http://localhost:1313/pl/tags/historia/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/historia/</guid>
+      <guid>http://localhost:1313/pl/tags/historia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Muzealnictwo</title>
-      <link>https://daxpl.github.io/pl/tags/muzealnictwo/</link>
+      <link>http://localhost:1313/pl/tags/muzealnictwo/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/muzealnictwo/</guid>
+      <guid>http://localhost:1313/pl/tags/muzealnictwo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Optymalizacja Kosztów</title>
-      <link>https://daxpl.github.io/pl/tags/optymalizacja-koszt%C3%B3w/</link>
+      <link>http://localhost:1313/pl/tags/optymalizacja-koszt%C3%B3w/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/optymalizacja-koszt%C3%B3w/</guid>
+      <guid>http://localhost:1313/pl/tags/optymalizacja-koszt%C3%B3w/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Rekonstrukcja Antropologiczna</title>
-      <link>https://daxpl.github.io/pl/tags/rekonstrukcja-antropologiczna/</link>
+      <link>http://localhost:1313/pl/tags/rekonstrukcja-antropologiczna/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/rekonstrukcja-antropologiczna/</guid>
+      <guid>http://localhost:1313/pl/tags/rekonstrukcja-antropologiczna/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Współpraca Naukowa</title>
-      <link>https://daxpl.github.io/pl/tags/wsp%C3%B3%C5%82praca-naukowa/</link>
+      <link>http://localhost:1313/pl/tags/wsp%C3%B3%C5%82praca-naukowa/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/tags/wsp%C3%B3%C5%82praca-naukowa/</guid>
+      <guid>http://localhost:1313/pl/tags/wsp%C3%B3%C5%82praca-naukowa/</guid>
       <description></description>
       
     </item>

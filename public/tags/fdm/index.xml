@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FDM on Miłosz Klim</title>
-    <link>https://daxpl.github.io/tags/fdm/</link>
+    <link>http://localhost:1313/tags/fdm/</link>
     <description>Recent content in FDM on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fdm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Where It All Started - Anthropological Reconstruction &amp; 3D Printing</title>
-      <link>https://daxpl.github.io/projects/czaszki-3d/</link>
+      <link>http://localhost:1313/projects/czaszki-3d/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/projects/czaszki-3d/</guid>
+      <guid>http://localhost:1313/projects/czaszki-3d/</guid>
       <description>An interdisciplinary scientific project reconstructing the skulls of early inhabitants of Greater Poland using FDM 3D printing, cutting production costs 15-fold, presented at Poznań City Hall.</description>
       
     </item>
