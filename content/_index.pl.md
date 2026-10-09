@@ -13,12 +13,12 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
   </h1>
   <p class="hero-subhead">
     <strong>Unity Developer & Integrator Rozwiązań IT.</strong><br>
-    Łączę świat cyfrowy z fizycznym: projektuję interaktywne światy XR, trenuję sztuczną inteligencję do sterowania maszynami metodą Sim2Real i buduję dedykowany sprzęt IoT.
+    Łączę świat cyfrowy z fizycznym: projektuję interaktywne światy XR, trenuję sztuczną inteligencję do sterowania maszynami i buduję dedykowany sprzęt IoT.
   </p>
   <div class="btn-group">
     {{< button href="/pl/projects/" style="primary" >}}🚀 Wybrane Projekty{{< /button >}}
     {{< button href="/Miłosz Klim - CV.pdf" target="_blank" style="secondary" >}}📄 Pobierz CV (PDF){{< /button >}}
-    {{< button href="mailto:klim.milosz@gmail.com" style="ghost" >}}✉️ Kontakt{{< /button >}}
+    {{< button href="mailto:klim.milosz@gmail.com" style="secondary" >}}✉️ Kontakt{{< /button >}}
   </div>
   <div class="hero-social-row">
     <a href="https://www.linkedin.com/in/miloszklim/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
@@ -29,9 +29,6 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
     </a>
     <a href="https://daxpl.itch.io/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
       <span>Itch.io</span> &rarr;
-    </a>
-    <a href="mailto:klim.milosz@gmail.com" class="hero-social-pill">
-      <span>klim.milosz@gmail.com</span>
     </a>
   </div>
 </div>
@@ -47,14 +44,14 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
         <div class="pillar-icon-box">🥽</div>
         <div class="pillar-title">Gamedev & Immersive XR</div>
         <p class="pillar-desc">
-          Architektura C# w Unity 3D, natywna optymalizacja pod Meta Quest (Snapdragon XR2) i PCVR, shadery URP oraz responsywny multiplayer VR.
+          Tworzę interaktywne aplikacje, gry oraz doświadczenia VR/AR, głównie w Unity 3D. Rzeczywistości cyfrowe umożliwiają interakcję na niespotykanym dotąd poziomie – od integracji z systemami smart home, po badanie stresu użytkownika w czasie rzeczywistym z użyciem biometrii!
         </p>
       </div>
       <div class="pillar-tags">
         <span class="pillar-tag">Unity 3D</span>
-        <span class="pillar-tag">Meta Quest</span>
-        <span class="pillar-tag">Netcode</span>
-        <span class="pillar-tag">URP</span>
+        <span class="pillar-tag">C#</span>
+        <span class="pillar-tag">VR / AR</span>
+        <span class="pillar-tag">Biometria</span>
       </div>
     </div>
     <div class="pillar-card">
@@ -62,14 +59,14 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
         <div class="pillar-icon-box">🤖</div>
         <div class="pillar-title">AI & Sim2Real Navigation</div>
         <p class="pillar-desc">
-          Uczenie przez wzmacnianie (Unity ML-Agents) w trójwymiarowych symulacjach fizyki, bezpieczny transfer modeli na fizyczne roboty oraz lokalne LLM.
+          Uczenie przez wzmacnianie w symulacjach fizyki i bezpieczny transfer modeli na fizyczne roboty. Fascynuje mnie local computing – projektuję autorskie systemy AI oparte na otwartym oprogramowaniu (FOSS). AI jest super, ale pełna kontrola nad danymi i bezpieczeństwo są jeszcze lepsze!
         </p>
       </div>
       <div class="pillar-tags">
-        <span class="pillar-tag">ML-Agents</span>
         <span class="pillar-tag">Sim2Real</span>
+        <span class="pillar-tag">Local AI</span>
+        <span class="pillar-tag">FOSS</span>
         <span class="pillar-tag">RL</span>
-        <span class="pillar-tag">Ollama</span>
       </div>
     </div>
     <div class="pillar-card">
@@ -77,14 +74,13 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
         <div class="pillar-icon-box">⚡</div>
         <div class="pillar-title">IoT, Hardware & Prototyping</div>
         <p class="pillar-desc">
-          Mikrokontrolery ESP32, globalna telemetria LTE z tunelem VPN, sensoryka biometryczna (EDA/HR) oraz szybkie prototypowanie mechaniczne w druku 3D (FDM).
-        </p>
+          Lutuję, drukuję, programuję i z pasją eksploruję nowe technologie. Tworzę urządzenia na mikrokontrolerach i eksperymentuję z fotogrametrią. Projekty fizyczne zjeżdżają z mojego wysłużonego Endera 3 – technicznie to wciąż Ender, ale po tylu modyfikacjach zaczyna żyć własnym życiem!</p>
       </div>
       <div class="pillar-tags">
         <span class="pillar-tag">ESP32</span>
-        <span class="pillar-tag">LTE / VPN</span>
-        <span class="pillar-tag">Biometria</span>
+        <span class="pillar-tag">Hardware</span>
         <span class="pillar-tag">Druk 3D</span>
+        <span class="pillar-tag">Fotogrametria</span>
       </div>
     </div>
   </div>
@@ -93,13 +89,13 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
 <div class="home-section">
   <div class="section-header">
     <h2 class="section-title">Wyróżnione Projekty</h2>
-    <a href="/pl/projects/" class="section-link">Wszystkie projekty (6) &rarr;</a>
+    <a href="/pl/projects/" class="section-link">Wszystkie projekty (5) &rarr;</a>
   </div>
   <div class="projects-showcase-grid">
     <a href="/pl/projects/wst-drony/" class="showcase-card">
       <div>
         <span class="showcase-badge">AI • Sim2Real • Robotyka</span>
-        <h3 class="showcase-title">WST / XR BINIU</h3>
+        <h3 class="showcase-title">Weird Steering Things</h3>
         <p class="showcase-quote">"Naszym największym sukcesem było nauczenie piasku myślenia."</p>
         <p class="showcase-excerpt">
           Open-source'owy framework do autonomicznego pilotowania pojazdów bezzałogowych – trenowanie AI w Unity 6 i kontrola fizycznego drona przez LTE/VPN.
@@ -118,7 +114,7 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
         <span class="showcase-badge">Computer Vision • Hardware</span>
         <h3 class="showcase-title">SNS Minerwa</h3>
         <p class="showcase-excerpt">
-          Wirtualna strzelnica sportowa dla szkół oparta na marker-based machine vision. Algorytm śledzi obraz z kamery na replice karabinu z mikrokontrolerem ESP32 bez użycia laserów.
+          Wirtualna strzelnica sportowa dla szkół oparta na wizji maszynowej. Algorytm śledzi obraz z kamery na replice karabinu z mikrokontrolerem ESP32 bez użycia laserów.
         </p>
         <div class="showcase-tags">
           <span class="showcase-tag">Unity 3D</span>
@@ -129,12 +125,12 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
       </div>
       <span class="showcase-action">Przeczytaj case study &rarr;</span>
     </a>
-    <a href="/pl/projects/rouge-squadron/" class="showcase-card">
+    <a href="/pl/projects/vr-immersion/" class="showcase-card">
       <div>
         <span class="showcase-badge">VR • Multiplayer • Biometria</span>
-        <h3 class="showcase-title">Rouge Squadron</h3>
+        <h3 class="showcase-title">Rouge Squadron | Green Hour</h3>
         <p class="showcase-excerpt">
-          Kooperacyjny symulator załogi statku w VR (120 FPS). Praca inżynierska połączona z badaniami medycznymi na aparaturze Empatica E4 (9-krotny wzrost stresu EDA w VR).
+          Badam zachowanie użytkowników w rzeczywistości wirtualnej, z użyciem zaawansowanych czujników biomedycznych. Aplikacja świadoma poziomu zaangażowania użytkownika może lepiej odpowiadać na jego potrzeby.
         </p>
         <div class="showcase-tags">
           <span class="showcase-tag">Netcode</span>
@@ -146,10 +142,6 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
       <span class="showcase-action">Przeczytaj case study &rarr;</span>
     </a>
   </div>
-  <a href="/pl/projects/" class="all-projects-card">
-    <span>Przeglądaj wszystkie projekty (w tym Biofeedback VR, platformę LAB-VR i rekonstrukcję 3D)</span>
-    <span>&rarr;</span>
-  </a>
 </div>
 
 <div class="home-section">

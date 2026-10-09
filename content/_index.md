@@ -13,12 +13,12 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
   </h1>
   <p class="hero-subhead">
     <strong>Unity Developer & IT Systems Integrator.</strong><br>
-    Bridging digital and physical domains: building interactive XR environments, training AI to navigate physical machines via Sim2Real, and designing bespoke IoT hardware.
+    Bridging digital and physical domains: building interactive XR environments, training AI to navigate machines, and designing bespoke IoT hardware.
   </p>
   <div class="btn-group">
     {{< button href="/projects/" style="primary" >}}🚀 Featured Projects{{< /button >}}
     {{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" style="secondary" >}}📄 Download CV (PDF){{< /button >}}
-    {{< button href="mailto:klim.milosz@gmail.com" style="ghost" >}}✉️ Contact{{< /button >}}
+    {{< button href="mailto:klim.milosz@gmail.com" style="secondary" >}}✉️ Contact{{< /button >}}
   </div>
   <div class="hero-social-row">
     <a href="https://www.linkedin.com/in/miloszklim/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
@@ -29,9 +29,6 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
     </a>
     <a href="https://daxpl.itch.io/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
       <span>Itch.io</span> &rarr;
-    </a>
-    <a href="mailto:klim.milosz@gmail.com" class="hero-social-pill">
-      <span>klim.milosz@gmail.com</span>
     </a>
   </div>
 </div>
@@ -47,14 +44,14 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
         <div class="pillar-icon-box">🥽</div>
         <div class="pillar-title">Gamedev & Immersive XR</div>
         <p class="pillar-desc">
-          High-performance C# in Unity 3D, native optimization for Meta Quest (Snapdragon XR2) and PCVR, custom URP shaders, and low-latency multiplayer.
+          I create interactive applications, games, and VR/AR experiences, primarily in Unity 3D. Digital realities unlock interaction on an unprecedented level — from smart home integration to real-time user stress analysis with biometrics!
         </p>
       </div>
       <div class="pillar-tags">
         <span class="pillar-tag">Unity 3D</span>
-        <span class="pillar-tag">Meta Quest</span>
-        <span class="pillar-tag">Netcode</span>
-        <span class="pillar-tag">URP</span>
+        <span class="pillar-tag">C#</span>
+        <span class="pillar-tag">VR / AR</span>
+        <span class="pillar-tag">Biometrics</span>
       </div>
     </div>
     <div class="pillar-card">
@@ -62,14 +59,14 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
         <div class="pillar-icon-box">🤖</div>
         <div class="pillar-title">AI & Sim2Real Navigation</div>
         <p class="pillar-desc">
-          Reinforcement learning (Unity ML-Agents) in 3D physics simulations, secure sim-to-real transfer to physical machines, and edge zero-trust LLMs.
+          Reinforcement learning in physics simulations and secure transfer of models to physical robots. I am fascinated by local computing — designing custom AI systems based on open-source software (FOSS). AI is great, but full data ownership and security are even better!
         </p>
       </div>
       <div class="pillar-tags">
-        <span class="pillar-tag">ML-Agents</span>
         <span class="pillar-tag">Sim2Real</span>
+        <span class="pillar-tag">Local AI</span>
+        <span class="pillar-tag">FOSS</span>
         <span class="pillar-tag">RL</span>
-        <span class="pillar-tag">Ollama</span>
       </div>
     </div>
     <div class="pillar-card">
@@ -77,14 +74,14 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
         <div class="pillar-icon-box">⚡</div>
         <div class="pillar-title">IoT, Hardware & Prototyping</div>
         <p class="pillar-desc">
-          ESP32 microcontrollers, cellular LTE/VPN telemetry pipelines, biometric sensors (EDA/HR), and rapid mechanical 3D prototyping (FDM).
+          I solder, 3D print, code, and passionately explore emerging tech. I build microcontroller-based hardware and experiment with photogrammetry. Physical builds roll off my trusty Ender 3 — technically it's still an Ender, but after so many mods it's living a life of its own!
         </p>
       </div>
       <div class="pillar-tags">
         <span class="pillar-tag">ESP32</span>
-        <span class="pillar-tag">LTE / VPN</span>
-        <span class="pillar-tag">Biometrics</span>
+        <span class="pillar-tag">Hardware</span>
         <span class="pillar-tag">3D Printing</span>
+        <span class="pillar-tag">Photogrammetry</span>
       </div>
     </div>
   </div>
@@ -93,13 +90,13 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
 <div class="home-section">
   <div class="section-header">
     <h2 class="section-title">Featured Projects</h2>
-    <a href="/projects/" class="section-link">All projects (6) &rarr;</a>
+    <a href="/projects/" class="section-link">All projects (5) &rarr;</a>
   </div>
   <div class="projects-showcase-grid">
     <a href="/projects/wst-drony/" class="showcase-card">
       <div>
         <span class="showcase-badge">AI • Sim2Real • Robotics</span>
-        <h3 class="showcase-title">WST / XR BINIU</h3>
+        <h3 class="showcase-title">Weird Steering Things</h3>
         <p class="showcase-quote">"Our greatest achievement was teaching sand how to think."</p>
         <p class="showcase-excerpt">
           Open-source autonomous piloting framework – training AI agents in Unity 6 and piloting physical drones over an encrypted LTE/VPN bridge.
@@ -118,7 +115,7 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
         <span class="showcase-badge">Computer Vision • Hardware</span>
         <h3 class="showcase-title">SNS Minerwa</h3>
         <p class="showcase-excerpt">
-          Educational virtual shooting range based on marker-based machine vision and an ESP32-powered replica rifle, eliminating hazardous lasers.
+          Educational virtual shooting range based on machine vision. An algorithm tracks the camera feed on an ESP32-powered replica rifle, eliminating hazardous lasers.
         </p>
         <div class="showcase-tags">
           <span class="showcase-tag">Unity 3D</span>
@@ -129,12 +126,12 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
       </div>
       <span class="showcase-action">Read case study &rarr;</span>
     </a>
-    <a href="/projects/rouge-squadron/" class="showcase-card">
+    <a href="/projects/vr-immersion/" class="showcase-card">
       <div>
         <span class="showcase-badge">VR • Multiplayer • Biometrics</span>
-        <h3 class="showcase-title">Rouge Squadron</h3>
+        <h3 class="showcase-title">Rouge Squadron | Green Hour</h3>
         <p class="showcase-excerpt">
-          Cooperative VR spaceship crew simulator (120 FPS). Bachelor's engineering thesis paired with medical Empatica E4 biometric research (9x EDA stress surge in VR).
+          Researching user behavior in virtual reality using advanced biometric sensors. Applications aware of real-time user engagement can better respond to their physiological needs.
         </p>
         <div class="showcase-tags">
           <span class="showcase-tag">Netcode</span>
@@ -146,10 +143,6 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
       <span class="showcase-action">Read case study &rarr;</span>
     </a>
   </div>
-  <a href="/projects/" class="all-projects-card">
-    <span>Explore all projects (including VR Biofeedback, LAB-VR, and 3D anthropological reconstruction)</span>
-    <span>&rarr;</span>
-  </a>
 </div>
 
 <div class="home-section">
