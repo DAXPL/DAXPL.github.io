@@ -59,12 +59,12 @@ Szczególne podziękowania kierujemy do **Wielkopolskiego Centrum Zaawansowanych
 ## Galeria Projektowa
 
 {{< gallery >}}
-  ![Wodowanie drona wodnego](/img-compressed/Errno/Drony/20250602_143615.webp)
-  ![Testy konstrukcyjne drona](/img-compressed/Errno/Drony/20250602_143633.webp)
-  ![Prace laboratoryjne nad elektroniką](/img-compressed/Errno/Drony/20250609_143529.webp)
-  ![Zintegrowana jednostka autonomiczna](/img-compressed/Errno/Drony/IMG-20250609-WA0000.webp)
-  ![Detale kadłuba i napędu](/img-compressed/Errno/Drony/20250602_144957.webp)
-  ![Etap prototypowania elektroniki](/img-compressed/Errno/Drony/20250511_222628.webp)
+  <img alt="Wodowanie drona wodnego" src="/img-compressed/Errno/Drony/20250602_143615.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Testy konstrukcyjne drona" src="/img-compressed/Errno/Drony/20250602_143633.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Prace laboratoryjne nad elektroniką" src="/img-compressed/Errno/Drony/20250609_143529.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Zintegrowana jednostka autonomiczna" src="/img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Detale kadłuba i napędu" src="/img-compressed/Errno/Drony/20250602_144957.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Etap prototypowania elektroniki" src="/img-compressed/Errno/Drony/20250511_222628.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---

@@ -25,7 +25,7 @@ Organizacja game jamu to złożone przedsięwzięcie logistyczne i merytoryczne:
 ## Zdjęcie z Wydarzenia
 
 {{< gallery >}}
-  ![Pestka Jam - maraton tworzenia gier](/img-compressed/Errno/errno2.webp)
+  <img alt="Pestka Jam - maraton tworzenia gier" src="/img-compressed/Errno/errno2.webp" class="grid-w100" />
 {{< /gallery >}}
 
 ---

@@ -25,7 +25,7 @@ Managing a 72-hour hackathon requires extensive logistical and technical oversig
 ## Event Snapshot
 
 {{< gallery >}}
-  ![Pestka Jam - marathon game creation](/img-compressed/Errno/errno2.webp)
+  <img alt="Pestka Jam - marathon game creation" src="/img-compressed/Errno/errno2.webp" class="grid-w100" />
 {{< /gallery >}}
 
 ---

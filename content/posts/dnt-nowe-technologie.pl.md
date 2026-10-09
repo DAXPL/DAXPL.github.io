@@ -25,9 +25,9 @@ Na przestrzeni kolejnych edycji zakres mojego zaangażowania ewoluował od prowa
 ## Galeria Wydarzeń
 
 {{< gallery >}}
-  ![Dni Nowych Technologii 2018](/img-compressed/Gites/DNT/DNT_2018_1.webp)
-  ![Dni Nowych Technologii 2022](/img-compressed/Gites/DNT/DNT_2022_1.webp)
-  ![Dni Nowych Technologii 2023](/img-compressed/Gites/DNT/DNT_2023_1.webp)
+  <img alt="Dni Nowych Technologii 2018" src="/img-compressed/Gites/DNT/DNT_2018_1.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Dni Nowych Technologii 2022" src="/img-compressed/Gites/DNT/DNT_2022_1.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Dni Nowych Technologii 2023" src="/img-compressed/Gites/DNT/DNT_2023_1.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---

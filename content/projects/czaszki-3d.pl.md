@@ -39,9 +39,9 @@ Projekt wymagał rzetelnej komunikacji naukowej (*Science Communication*). Wzię
 ## Galeria Projektowa
 
 {{< gallery >}}
-  ![Wydrukowana czaszka FDM](/img-compressed/Gites/Czaszki/czacha2.webp)
-  ![Detale anatomiczne czaszki](/img-compressed/Gites/Czaszki/czacha3.webp)
-  ![Prezentacja w Sali Sesyjnej Urzędu Miasta](/img-compressed/Gites/Czaszki/prezentacja.webp)
+  <img alt="Wydrukowana czaszka FDM" src="/img-compressed/Gites/Czaszki/czacha2.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Detale anatomiczne czaszki" src="/img-compressed/Gites/Czaszki/czacha3.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Prezentacja w Sali Sesyjnej Urzędu Miasta" src="/img-compressed/Gites/Czaszki/prezentacja.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---

@@ -39,9 +39,9 @@ The project demanded clear technical communication. We represented the team at t
 ## Project Gallery
 
 {{< gallery >}}
-  ![FDM 3D printed skull replica](/img-compressed/Gites/Czaszki/czacha2.webp)
-  ![Anatomical details of the print](/img-compressed/Gites/Czaszki/czacha3.webp)
-  ![Public presentation at Poznań City Hall](/img-compressed/Gites/Czaszki/prezentacja.webp)
+  <img alt="FDM 3D printed skull replica" src="/img-compressed/Gites/Czaszki/czacha2.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Anatomical details of the print" src="/img-compressed/Gites/Czaszki/czacha3.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Public presentation at Poznań City Hall" src="/img-compressed/Gites/Czaszki/prezentacja.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---
