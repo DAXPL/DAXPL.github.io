@@ -1,162 +1,162 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miłosz Klim - Strona Osobista on Miłosz Klim</title>
-    <link>https://daxpl.github.io/pl/</link>
-    <description>Recent content in Miłosz Klim - Strona Osobista on Miłosz Klim</description>
+    <title>Miłosz Klim</title>
+    <link>http://localhost:1313/pl/</link>
+    <description>Recent content on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Festiwal Pyrkon: Stoisko interaktywnych aplikacji Mixed Reality (2025–2026)</title>
-      <link>https://daxpl.github.io/pl/posts/pyrkon-festiwal-xr/</link>
+      <link>http://localhost:1313/pl/posts/pyrkon-festiwal-xr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/pyrkon-festiwal-xr/</guid>
+      <guid>http://localhost:1313/pl/posts/pyrkon-festiwal-xr/</guid>
       <description>Demonstracja autorskich aplikacji Mixed Reality (MR) i VR na jednym z największych konwentów popkultury w Europie – Międzynarodowym Festiwalu Fantastyki Pyrkon.</description>
       
     </item>
     
     <item>
       <title>Zero-Trust AI: Bezpieczeństwo wrażliwych danych i lokalne LLM (OCETA Lounge 2026)</title>
-      <link>https://daxpl.github.io/pl/posts/oceta-2026-zero-trust-ai/</link>
+      <link>http://localhost:1313/pl/posts/oceta-2026-zero-trust-ai/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/oceta-2026-zero-trust-ai/</guid>
+      <guid>http://localhost:1313/pl/posts/oceta-2026-zero-trust-ai/</guid>
       <description>Wykład na OCETA Lounge poświęcony architekturze Zero-Trust AI – przetwarzaniu wrażliwych danych telemetrycznych i biometrycznych wyłącznie lokalnie przy użyciu Ollama i otwartych modeli LLM.</description>
       
     </item>
     
     <item>
       <title>Biofeedback i Immersja Multisensoryczna w VR (Praca Magisterska)</title>
-      <link>https://daxpl.github.io/pl/projects/green-hour/</link>
+      <link>http://localhost:1313/pl/projects/green-hour/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/green-hour/</guid>
+      <guid>http://localhost:1313/pl/projects/green-hour/</guid>
       <description>Badawcze środowisko VR/PC korelujące reakcje fizjologiczne organizmu ze stanem immersji i flow, wykorzystujące mikrokontrolery ESP32, autorski moduł zapachowy (Olfactory Display) i analizę w Pythonie.</description>
       
     </item>
     
     <item>
       <title>HARDWARE SOVEREIGNTY: Tworzenie autorskiego sprzętu z agentami AI (OCETA Connect 2026)</title>
-      <link>https://daxpl.github.io/pl/posts/oceta-2026-hardware-sovereignty/</link>
+      <link>http://localhost:1313/pl/posts/oceta-2026-hardware-sovereignty/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/oceta-2026-hardware-sovereignty/</guid>
+      <guid>http://localhost:1313/pl/posts/oceta-2026-hardware-sovereignty/</guid>
       <description>Prezentacja i panel dyskusyjny na konferencji OCETA Connect o budowie autorskich urządzeń sprzętowych z wykorzystaniem agentów AI w celu zapewnienia pełnego bezpieczeństwa danych.</description>
       
     </item>
     
     <item>
       <title>Dni Nowych Technologii: Wieloletnia organizacja i popularyzacja innowacji (2019–2026)</title>
-      <link>https://daxpl.github.io/pl/posts/dnt-nowe-technologie/</link>
+      <link>http://localhost:1313/pl/posts/dnt-nowe-technologie/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/dnt-nowe-technologie/</guid>
+      <guid>http://localhost:1313/pl/posts/dnt-nowe-technologie/</guid>
       <description>Współorganizacja wszystkich dotychczasowych edycji Dni Nowych Technologii: warsztaty ze sprzętu, programowania, druku 3D oraz budowanie mostu między szkołami a uczelnią.</description>
       
     </item>
     
     <item>
       <title>Doświadczanie immersji w rzeczywistościach wirtualnych i techniki jej pogłębiania (OCETA 2025)</title>
-      <link>https://daxpl.github.io/pl/posts/oceta-2025-immersja-xr/</link>
+      <link>http://localhost:1313/pl/posts/oceta-2025-immersja-xr/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/oceta-2025-immersja-xr/</guid>
+      <guid>http://localhost:1313/pl/posts/oceta-2025-immersja-xr/</guid>
       <description>Wykład na konferencji OCETA poświęcony zjawisku embodied presence w XR, metodom pomiaru immersji za pomocą sensorów biometrycznych oraz technikom potęgowania obecności.</description>
       
     </item>
     
     <item>
       <title>WST / XR BINIU - Autonomiczne Drony i Sim2Real AI</title>
-      <link>https://daxpl.github.io/pl/projects/wst-drony/</link>
+      <link>http://localhost:1313/pl/projects/wst-drony/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/wst-drony/</guid>
+      <guid>http://localhost:1313/pl/projects/wst-drony/</guid>
       <description>Open-source&amp;rsquo;owy framework łączący silnik Unity 6, uczenie przez wzmacnianie (ML-Agents) oraz kontrolery ESP32 z modemem LTE/VPN do sterowania autonomicznymi pojazdami.</description>
       
     </item>
     
     <item>
       <title>Symulator VR &#34;Rouge Squadron&#34; &amp; Badania Biometryczne</title>
-      <link>https://daxpl.github.io/pl/projects/rouge-squadron/</link>
+      <link>http://localhost:1313/pl/projects/rouge-squadron/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/rouge-squadron/</guid>
+      <guid>http://localhost:1313/pl/projects/rouge-squadron/</guid>
       <description>Zaawansowany kooperacyjny symulator statku kosmicznego w VR (LAN Multiplayer / Netcode) połączony z medycznymi badaniami nad reakcjami biometrycznymi (EDA/stres) graczy.</description>
       
     </item>
     
     <item>
       <title>Prelekcje i warsztaty technologiczne w ramach Nocy Muzeów</title>
-      <link>https://daxpl.github.io/pl/posts/noc-muzeow/</link>
+      <link>http://localhost:1313/pl/posts/noc-muzeow/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/noc-muzeow/</guid>
+      <guid>http://localhost:1313/pl/posts/noc-muzeow/</guid>
       <description>Prowadzenie interaktywnych warsztatów i otwartych prelekcji technologicznych w ramach Nocy Muzeów na Uniwersytecie im. Adama Mickiewicza w Poznaniu.</description>
       
     </item>
     
     <item>
       <title>Pestka Jam: Organizacja 72-godzinnego maratonu gamedevowego i mentoring</title>
-      <link>https://daxpl.github.io/pl/posts/pestka-jam/</link>
+      <link>http://localhost:1313/pl/posts/pestka-jam/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/pestka-jam/</guid>
+      <guid>http://localhost:1313/pl/posts/pestka-jam/</guid>
       <description>Kulisy organizacji studenckiego game jamu Pestka Jam z ramienia koła naukowego Errno – 72 godziny intensywnego prototypowania, warsztatów i wsparcia merytorycznego dla twórców gier.</description>
       
     </item>
     
     <item>
       <title>LAB-VR - Edukacyjna Platforma Wirtualnej Rzeczywistości</title>
-      <link>https://daxpl.github.io/pl/projects/labvr/</link>
+      <link>http://localhost:1313/pl/projects/labvr/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/labvr/</guid>
+      <guid>http://localhost:1313/pl/projects/labvr/</guid>
       <description>Otwarta platforma edukacyjna VR (fizyka, astronomia, geologia, UTK) zrealizowana w ramach grantu Kowadło 2.0, zoptymalizowana pod gogle Meta Quest 2 i wdrożona w szkołach w całym kraju.</description>
       
     </item>
     
     <item>
       <title>SNS Minerwa - Wirtualna Strzelnica</title>
-      <link>https://daxpl.github.io/pl/projects/minerwa/</link>
+      <link>http://localhost:1313/pl/projects/minerwa/</link>
       <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/minerwa/</guid>
+      <guid>http://localhost:1313/pl/projects/minerwa/</guid>
       <description>Innowacyjny system wirtualnego treningu strzeleckiego oparty na wizji maszynowej (computer vision), replikach karabinów z ESP32 i silniku Unity 3D.</description>
       
     </item>
     
     <item>
       <title>Poznań Game Arena 2021 - Kulisy Stoiska Indie i Gra &#34;Poszutex&#34;</title>
-      <link>https://daxpl.github.io/pl/posts/pga-2021/</link>
+      <link>http://localhost:1313/pl/posts/pga-2021/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/posts/pga-2021/</guid>
+      <guid>http://localhost:1313/pl/posts/pga-2021/</guid>
       <description>Case study z organizacji stoiska Propaganda Studios w strefie Indie na Poznań Game Arena 2021: setki graczy, zbieranie feedbacku i nocne poprawianie błędów.</description>
       
     </item>
     
     <item>
       <title>Tu się wszystko zaczęło - Rekonstrukcja Antropologiczna i Druk 3D</title>
-      <link>https://daxpl.github.io/pl/projects/czaszki-3d/</link>
+      <link>http://localhost:1313/pl/projects/czaszki-3d/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/projects/czaszki-3d/</guid>
+      <guid>http://localhost:1313/pl/projects/czaszki-3d/</guid>
       <description>Interdyscyplinarny projekt naukowy rekonstrukcji czaszek pierwszych Wielkopolan z wykorzystaniem technologii druku 3D (FDM), 15-krotną redukcją kosztów i prezentacją w Urzędzie Miasta Poznania.</description>
       
     </item>
     
     <item>
       <title>O mnie</title>
-      <link>https://daxpl.github.io/pl/about/</link>
+      <link>http://localhost:1313/pl/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/pl/about/</guid>
+      <guid>http://localhost:1313/pl/about/</guid>
       <description></description>
       
     </item>

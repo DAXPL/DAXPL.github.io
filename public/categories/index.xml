@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Miłosz Klim</title>
-    <link>https://daxpl.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Events &amp; Community</title>
-      <link>https://daxpl.github.io/categories/events--community/</link>
+      <link>http://localhost:1313/categories/events--community/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/events--community/</guid>
+      <guid>http://localhost:1313/categories/events--community/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Posts &amp; Talks</title>
-      <link>https://daxpl.github.io/categories/posts--talks/</link>
+      <link>http://localhost:1313/categories/posts--talks/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/posts--talks/</guid>
+      <guid>http://localhost:1313/categories/posts--talks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Conferences &amp; Talks</title>
-      <link>https://daxpl.github.io/categories/conferences--talks/</link>
+      <link>http://localhost:1313/categories/conferences--talks/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/conferences--talks/</guid>
+      <guid>http://localhost:1313/categories/conferences--talks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gamedev &amp; XR</title>
-      <link>https://daxpl.github.io/categories/gamedev--xr/</link>
+      <link>http://localhost:1313/categories/gamedev--xr/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/gamedev--xr/</guid>
+      <guid>http://localhost:1313/categories/gamedev--xr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://daxpl.github.io/categories/projects/</link>
+      <link>http://localhost:1313/categories/projects/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/projects/</guid>
+      <guid>http://localhost:1313/categories/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>R&amp;D Research</title>
-      <link>https://daxpl.github.io/categories/rd-research/</link>
+      <link>http://localhost:1313/categories/rd-research/</link>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/rd-research/</guid>
+      <guid>http://localhost:1313/categories/rd-research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI &amp; Robotics</title>
-      <link>https://daxpl.github.io/categories/ai--robotics/</link>
+      <link>http://localhost:1313/categories/ai--robotics/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/ai--robotics/</guid>
+      <guid>http://localhost:1313/categories/ai--robotics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://daxpl.github.io/categories/education/</link>
+      <link>http://localhost:1313/categories/education/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/education/</guid>
+      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hardware &amp; Prototyping</title>
-      <link>https://daxpl.github.io/categories/hardware--prototyping/</link>
+      <link>http://localhost:1313/categories/hardware--prototyping/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/categories/hardware--prototyping/</guid>
+      <guid>http://localhost:1313/categories/hardware--prototyping/</guid>
       <description></description>
       
     </item>

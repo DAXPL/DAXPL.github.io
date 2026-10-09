@@ -1,0 +1,9 @@
+<article class="max-w-full prose dark:prose-invert">
+  {{ if .Params.showTitle | default false }}
+    <header>
+      <h1>{{ .Title | emojify }}</h1>
+    </header>
+  {{ end }}
+  <section class="w-full">{{ .Content }}</section>
+</article>
+

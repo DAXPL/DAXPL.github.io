@@ -1,161 +1,222 @@
 ---
-title: "Miłosz Klim - Strona Osobista"
+title: "Miłosz Klim"
 description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
 ---
 
-# Cześć, jestem Miłosz.
-**Unity Developer | Integrator IT | Twórca XR & AI**  
-Zamieniam kod w interaktywne światy, aplikacje XR i systemy łączące software z fizycznym hardwarem.
+<div class="hero-wrapper">
+  <div class="hero-status-pill">
+    <span class="hero-status-dot"></span>
+    Dostępny do innowacyjnych projektów XR & AI
+  </div>
+  <h1 class="hero-headline">
+    Cześć, jestem <span class="hero-gradient-text">Miłosz Klim</span>.
+  </h1>
+  <p class="hero-subhead">
+    <strong>Unity Developer & Integrator Rozwiązań IT.</strong><br>
+    Łączę świat cyfrowy z fizycznym: projektuję interaktywne światy XR, trenuję sztuczną inteligencję do sterowania maszynami metodą Sim2Real i buduję dedykowany sprzęt IoT.
+  </p>
+  <div class="btn-group">
+    {{< button href="/pl/projects/" style="primary" >}}🚀 Wybrane Projekty{{< /button >}}
+    {{< button href="/Miłosz Klim - CV.pdf" target="_blank" style="secondary" >}}📄 Pobierz CV (PDF){{< /button >}}
+    {{< button href="mailto:klim.milosz@gmail.com" style="ghost" >}}✉️ Kontakt{{< /button >}}
+  </div>
+  <div class="hero-social-row">
+    <a href="https://www.linkedin.com/in/miloszklim/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
+      <span>LinkedIn</span> &rarr;
+    </a>
+    <a href="https://github.com/DAXPL" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
+      <span>GitHub</span> &rarr;
+    </a>
+    <a href="https://daxpl.itch.io/" target="_blank" rel="noopener noreferrer" class="hero-social-pill">
+      <span>Itch.io</span> &rarr;
+    </a>
+    <a href="mailto:klim.milosz@gmail.com" class="hero-social-pill">
+      <span>klim.milosz@gmail.com</span>
+    </a>
+  </div>
+</div>
 
-{{< button href="/Miłosz Klim - CV.pdf" target="_blank" >}}
-Pobierz moje CV (PDF)
-{{< /button >}}
-{{< button href="/pl/projects/" >}}
-Przeglądaj Projekty
-{{< /button >}}
-{{< button href="/pl/posts/" >}}
-Wpisy i Prelekcje
-{{< /button >}}
+<div class="home-section">
+  <div class="section-header">
+    <h2 class="section-title">Obszary Działań</h2>
+    <a href="/pl/about/" class="section-link">Więcej o mnie &rarr;</a>
+  </div>
+  <div class="pillars-grid">
+    <div class="pillar-card">
+      <div>
+        <div class="pillar-icon-box">🥽</div>
+        <div class="pillar-title">Gamedev & Immersive XR</div>
+        <p class="pillar-desc">
+          Architektura C# w Unity 3D, natywna optymalizacja pod Meta Quest (Snapdragon XR2) i PCVR, shadery URP oraz responsywny multiplayer VR.
+        </p>
+      </div>
+      <div class="pillar-tags">
+        <span class="pillar-tag">Unity 3D</span>
+        <span class="pillar-tag">Meta Quest</span>
+        <span class="pillar-tag">Netcode</span>
+        <span class="pillar-tag">URP</span>
+      </div>
+    </div>
+    <div class="pillar-card">
+      <div>
+        <div class="pillar-icon-box">🤖</div>
+        <div class="pillar-title">AI & Sim2Real Navigation</div>
+        <p class="pillar-desc">
+          Uczenie przez wzmacnianie (Unity ML-Agents) w trójwymiarowych symulacjach fizyki, bezpieczny transfer modeli na fizyczne roboty oraz lokalne LLM.
+        </p>
+      </div>
+      <div class="pillar-tags">
+        <span class="pillar-tag">ML-Agents</span>
+        <span class="pillar-tag">Sim2Real</span>
+        <span class="pillar-tag">RL</span>
+        <span class="pillar-tag">Ollama</span>
+      </div>
+    </div>
+    <div class="pillar-card">
+      <div>
+        <div class="pillar-icon-box">⚡</div>
+        <div class="pillar-title">IoT, Hardware & Prototyping</div>
+        <p class="pillar-desc">
+          Mikrokontrolery ESP32, globalna telemetria LTE z tunelem VPN, sensoryka biometryczna (EDA/HR) oraz szybkie prototypowanie mechaniczne w druku 3D (FDM).
+        </p>
+      </div>
+      <div class="pillar-tags">
+        <span class="pillar-tag">ESP32</span>
+        <span class="pillar-tag">LTE / VPN</span>
+        <span class="pillar-tag">Biometria</span>
+        <span class="pillar-tag">Druk 3D</span>
+      </div>
+    </div>
+  </div>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/miloszklim/) | [GitHub](https://github.com/DAXPL) | [Itch.io](https://daxpl.itch.io/)
+<div class="home-section">
+  <div class="section-header">
+    <h2 class="section-title">Wyróżnione Projekty</h2>
+    <a href="/pl/projects/" class="section-link">Wszystkie projekty (6) &rarr;</a>
+  </div>
+  <div class="projects-showcase-grid">
+    <a href="/pl/projects/wst-drony/" class="showcase-card">
+      <div>
+        <span class="showcase-badge">AI • Sim2Real • Robotyka</span>
+        <h3 class="showcase-title">WST / XR BINIU</h3>
+        <p class="showcase-quote">"Naszym największym sukcesem było nauczenie piasku myślenia."</p>
+        <p class="showcase-excerpt">
+          Open-source'owy framework do autonomicznego pilotowania pojazdów bezzałogowych – trenowanie AI w Unity 6 i kontrola fizycznego drona przez LTE/VPN.
+        </p>
+        <div class="showcase-tags">
+          <span class="showcase-tag">Unity 6</span>
+          <span class="showcase-tag">ML-Agents</span>
+          <span class="showcase-tag">ESP32</span>
+          <span class="showcase-tag">Druk 3D</span>
+        </div>
+      </div>
+      <span class="showcase-action">Przeczytaj case study &rarr;</span>
+    </a>
+    <a href="/pl/projects/minerwa/" class="showcase-card">
+      <div>
+        <span class="showcase-badge">Computer Vision • Hardware</span>
+        <h3 class="showcase-title">SNS Minerwa</h3>
+        <p class="showcase-excerpt">
+          Wirtualna strzelnica sportowa dla szkół oparta na marker-based machine vision. Algorytm śledzi obraz z kamery na replice karabinu z mikrokontrolerem ESP32 bez użycia laserów.
+        </p>
+        <div class="showcase-tags">
+          <span class="showcase-tag">Unity 3D</span>
+          <span class="showcase-tag">Computer Vision</span>
+          <span class="showcase-tag">ESP32</span>
+          <span class="showcase-tag">AMD FSR</span>
+        </div>
+      </div>
+      <span class="showcase-action">Przeczytaj case study &rarr;</span>
+    </a>
+    <a href="/pl/projects/rouge-squadron/" class="showcase-card">
+      <div>
+        <span class="showcase-badge">VR • Multiplayer • Biometria</span>
+        <h3 class="showcase-title">Rouge Squadron</h3>
+        <p class="showcase-excerpt">
+          Kooperacyjny symulator załogi statku w VR (120 FPS). Praca inżynierska połączona z badaniami medycznymi na aparaturze Empatica E4 (9-krotny wzrost stresu EDA w VR).
+        </p>
+        <div class="showcase-tags">
+          <span class="showcase-tag">Netcode</span>
+          <span class="showcase-tag">Empatica E4</span>
+          <span class="showcase-tag">Shader Graph</span>
+          <span class="showcase-tag">Meta Quest</span>
+        </div>
+      </div>
+      <span class="showcase-action">Przeczytaj case study &rarr;</span>
+    </a>
+  </div>
+  <a href="/pl/projects/" class="all-projects-card">
+    <span>Przeglądaj wszystkie projekty (w tym Biofeedback VR, platformę LAB-VR i rekonstrukcję 3D)</span>
+    <span>&rarr;</span>
+  </a>
+</div>
 
----
+<div class="home-section">
+  <div class="section-header">
+    <h2 class="section-title">Wpisy & Prelekcje</h2>
+    <a href="/pl/posts/" class="section-link">Wszystkie wpisy (9) &rarr;</a>
+  </div>
+  <div class="talks-list">
+    <a href="/pl/posts/oceta-2026-hardware-sovereignty/" class="talk-row">
+      <div>
+        <h4 class="talk-title">HARDWARE SOVEREIGNTY: Tworzenie autorskiego sprzętu z agentami AI</h4>
+        <div class="talk-meta">
+          <span>Czerwiec 2026</span>
+          <span>•</span>
+          <span>Prelekcja & Panel dyskusyjny</span>
+        </div>
+      </div>
+      <span class="talk-pill">OCETA Connect 2026</span>
+    </a>
+    <a href="/pl/posts/oceta-2026-zero-trust-ai/" class="talk-row">
+      <div>
+        <h4 class="talk-title">Zero-Trust AI: Bezpieczeństwo wrażliwych danych i lokalne LLM</h4>
+        <div class="talk-meta">
+          <span>Czerwiec 2026</span>
+          <span>•</span>
+          <span>Wykład techniczny</span>
+        </div>
+      </div>
+      <span class="talk-pill">OCETA Lounge 2026</span>
+    </a>
+    <a href="/pl/posts/oceta-2025-immersja-xr/" class="talk-row">
+      <div>
+        <h4 class="talk-title">Doświadczanie immersji w rzeczywistościach wirtualnych i techniki jej pogłębiania</h4>
+        <div class="talk-meta">
+          <span>Czerwiec 2025</span>
+          <span>•</span>
+          <span>Biometria & Embodied Presence</span>
+        </div>
+      </div>
+      <span class="talk-pill">OCETA 2025</span>
+    </a>
+  </div>
+</div>
 
-## O mnie
+<div class="home-section">
+  <div class="section-header">
+    <h2 class="section-title">O mnie</h2>
+    <a href="/pl/about/" class="section-link">Pełna biografia &rarr;</a>
+  </div>
+  <div class="about-teaser-card">
+    <p class="about-quote">"Prawdziwa motywacja płynie z pasji."</p>
+    <p class="about-text">
+      Łączę badania akademickie (Mgr inż. IoT, Inż. Technologie Komputerowe na UAM) z komercyjnym R&D (m.in. wdrożenia medyczne VR w szpitalach i zaawansowane aplikacje AI). Założyłem studio Propaganda Studios oraz studenckie koło naukowe Errno, które doprowadziłem do tytułu najlepszego koła na uczelni.
+    </p>
+    <div class="btn-group" style="margin-bottom: 0;">
+      {{< button href="/pl/about/" style="primary" >}}Poznaj pełne doświadczenie, edukację i certyfikaty &rarr;{{< /button >}}
+    </div>
+  </div>
+</div>
 
-Moją przygodę z technologią na poważnie rozpocząłem w technikum, gdzie za działalność w kole Gites otrzymałem Złoty Wawrzyn – nagrodę, która przypomina mi, że ciężką pracą można osiągnąć wszystko. To tam nauczyłem się najważniejszego: **prawdziwa motywacja płynie z pasji.** Tej zasady trzymam się do dziś, co pozwala mi łączyć pracę z tym, co kocham.
-
-Moją największą pasją jest gamedev i technologie XR (VR/AR/MR). Im dziwniejsza technologia, tym lepiej! Zakładałem własne studio Propaganda Studios oraz koło naukowe Errno, które zdobyło tytuł najlepszego na UAM w kategorii naukowej. Od projektów LabVR dla szkół, przez uczenie AI pływania łodzią, aż po tworzenie gier na gamejamach czy nawet programowanie nakładek na broń palną – **nie boję się wyzwań, bo każda potencjalna porażka to doświadczenie, które przekuwam w kolejny sukces.**
-
-Dowiedz się więcej o mojej drodze, wykształceniu i certyfikatach na stronie [O mnie](/pl/about/).
-
----
-
-## Czym się zajmuję
-
-* **Gamedev & XR (VR / AR / MR):** Zaawansowane programowanie w C# i Unity 3D, natywna optymalizacja pod zestawy Meta Quest 2 i 3 (Snapdragon XR2) oraz PCVR, autorskie shadery URP/HDRP i bezopóźnieniowy multiplayer VR w oparciu o Netcode for GameObjects.
-* **Sztuczna Inteligencja & Sim2Real:** Uczenie agentów AI przez wzmacnianie w trójwymiarowych symulacjach fizycznych (Unity ML-Agents), transfer modeli do sterowania fizycznymi maszynami oraz wdrażanie lokalnych modeli LLM (Ollama) w architekturze Zero-Trust.
-* **Integracja IT, IoT i Druk 3D:** Projektowanie i programowanie autorskiego sprzętu na mikrokontrolerach ESP32, globalna telemetria przez LTE/VPN, rejestracja biometryczna (EDA, HR) oraz szybkie prototypowanie mechaniczne na drukarkach 3D (FDM).
-
----
-
-## Wybrane Projekty
-
-### [SNS Minerwa - Wirtualna Strzelnica](/pl/projects/minerwa/)
-
-<iframe src="https://itch.io/embed/1708380" loading="lazy" width="100%" height="167" frameborder="0"></iframe>
-
-Minerwa to wirtualna strzelnica zrealizowana na zlecenie technikum ZSE2, pozwalająca na bezpieczny trening strzelecki w warunkach szkolnych przy użyciu rzutnika i repliki karabinu. Sercem projektu jest innowacyjny system oparty na wizji maszynowej (computer vision). Zamiast drogich laserów czy nadajników IR, na lufie umieszczona jest niewielka kamera śledząca markery na ekranie.
-
-* **Rola:** Team Leader, Unity & ESP Developer, Hardware Integrator
-* **Technologie:** Unity 3D, C#, Computer Vision, AMD FSR, ESP32
-* [Zobacz pełne case study projektu](/pl/projects/minerwa/) | [Itch.io](https://propaganda-studios.itch.io/minerwa)
-
----
-
-### [WST / XR BINIU - Autonomiczne Drony i Sim2Real AI](/pl/projects/wst-drony/)
-
-> *"Naszym największym sukcesem było nauczenie piasku myślenia."*
-
-Framework open-source do trenowania sztucznej inteligencji pilotującej bezzałogowe pojazdy. Wykorzystujemy Unity 6 do symulacji fizyki środowiska oraz Unity ML-Agents (Reinforcement Learning). Jednostka fizyczna posiada moduł ESP32 połączony przez modem GSM/LTE z prywatną siecią VPN.
-
-* **Rola:** Project Leader, System Architect, Unity & ESP32 Developer
-* **Technologie:** Unity 6, ML-Agents, ESP32, C++, Python, GSM/LTE VPN, Druk 3D FDM
-* [Zobacz pełne case study i galerię zdjęć](/pl/projects/wst-drony/) | [GitHub](https://github.com/DAXPL/WST)
-
----
-
-### [Symulator VR "Rouge Squadron" & Badania Biometryczne](/pl/projects/rouge-squadron/)
-
-Kooperacyjny symulator załogi statku kosmicznego w wirtualnej rzeczywistości, stanowiący moją pracę inżynierską na UAM. Projekt połączył rozgrywkę multiplayer LAN (Netcode for GameObjects, 120 FPS) z badaniami medycznymi nad poziomem stresu i pobudzenia graczy (opaska biometryczna Empatica E4, 9-krotny wzrost EDA w VR vs PC).
-
-* **Rola:** Lead Developer & Researcher
-* **Technologie:** Unity 3D, Netcode for GameObjects, Meta Quest, Empatica E4, URP Shader Graph
-* [Przeczytaj pełny opis pracy inżynierskiej](/pl/projects/rouge-squadron/) | [Itch.io](https://daxpl.itch.io/rouge-squadron)
-
----
-
-### [Biofeedback i Immersja Multisensoryczna w VR](/pl/projects/green-hour/)
-
-Środowisko badawcze zrealizowane w ramach pracy magisterskiej (Aplikacje Internetu Rzeczy na Wydziale Fizyki UAM). Badanie obiektywnych wskaźników fizjologicznych (EDA, tętno, saturacja) i korelacji ze stanem *flow*, wzbogacone o samodzielnie zaprojektowany fizyczny moduł zapachowy (Olfactory Display) sterowany mikrokontrolerem ESP32.
-
-* **Rola:** Solo Developer, Hardware Engineer & Researcher
-* **Technologie:** Unity 3D, ESP32, Sensory biometryczne, Python & Pandas, GenAI Hunyuan3D-2
-* [Dowiedz się więcej o badaniach](/pl/projects/green-hour/)
-
----
-
-{{< button href="/pl/projects/" >}}
-Zobacz wszystkie projekty &rarr;
-{{< /button >}}
-
----
-
-## Ostatnie Wpisy i Prelekcje
-
-Dzielę się wiedzą z wystąpień konferencyjnych, kulisów tworzenia gier oraz prac nad systemami embedded:
-
-* **[HARDWARE SOVEREIGNTY: Tworzenie autorskiego sprzętu z agentami AI](/pl/posts/oceta-2026-hardware-sovereignty/)** (OCETA Connect 2026) – Suwerenność sprzętowa i przyspieszenie prototypowania firmware'u.
-* **[Zero-Trust AI: Bezpieczeństwo wrażliwych danych i lokalne LLM](/pl/posts/oceta-2026-zero-trust-ai/)** (OCETA Lounge 2026) – Prywatne przetwarzanie wrażliwej biometrii bez chmurowych wycieków z użyciem Ollama.
-* **[Doświadczanie immersji w rzeczywistościach wirtualnych](/pl/posts/oceta-2025-immersja-xr/)** (OCETA 2025) – Wykład o zjawisku *embodied presence* i pomiarach fizjologicznych w XR.
-* **[Poznań Game Arena 2021: Kulisy Stoiska Indie i Gra "Poszutex"](/pl/posts/pga-2021/)** – Case study z prezentacji gier Propaganda Studios przed setkami graczy.
-* **[Dni Nowych Technologii: Wieloletnia organizacja święta innowacji](/pl/posts/dnt-nowe-technologie/)** – Cykliczne warsztaty ze sprzętu i programowania na UAM.
-
-{{< button href="/pl/posts/" >}}
-Przejdź do wszystkich wpisów i relacji &rarr;
-{{< /button >}}
-
----
-
-## Doświadczenie i Społeczność
-
-### Propaganda Studios
-Grupa gamedevowa, którą współzałożyłem. Tworzymy gry (głównie na gamejamy) oraz aplikacje edukacyjne. Prowadzimy także warsztaty z Unity i modelowania 3D dla młodzieży, dzieląc się naszą pasją i wiedzą.
-
-[Zobacz nasze gry na Itch.io](https://propaganda-studios.itch.io)
-
-{{< gallery >}}
-  <img src="/img-compressed/PGA/IMG_4429.webp" alt="itch.io" class="grid-w50" />
-  <img src="/img-compressed/PGA/IMG_4439.webp" alt="PGA 2021" class="grid-w50" />
-{{< /gallery >}}
-*Więcej o kulisach PGA przeczytasz we [wpisie dedykowanym PGA 2021](/pl/posts/pga-2021/).*
-
-### Flying Octopus
-Demokratyczny kolektyw gamedevowy, który stawia na samorealizację, autonomię i przyjazną atmosferę. W zespole, gdzie każdy ma realny wpływ na projekty, zajmowałem się głównie programowaniem gier w Unity. Odpowiadałem również za mentorowanie i prowadzenie praktyk dla nowych członków, dzieląc się swoją wiedzą.
-
-[Więcej o Flying Octopus](https://flyingoctopus.pl)
-
-### GITES
-Moja przygoda z poważnym IT. Zaczynałem jako "szeregowy" członek, szybko awansując na lidera grupy. Nauczyłem się tu C#, administracji sprzętem, druku 3D i wystąpień publicznych. Po ukończeniu technikum (z kwalifikacjami EE.08, EE.09 i Medalem Złotego Wawrzyna) objąłem rolę mentora, pomagając młodszym kolegom.
-
-[Więcej o grupie GITES](https://giteszse2.wixsite.com/dnt2)
-
-{{< gallery >}}
-  <img src="/img-compressed/Gites/Czaszki/czacha2.webp" alt="Projekt Tu się wszystko zaczęło" class="grid-w33" />
-  <img src="/img-compressed/Gites/DNT/DNT_2022_1.webp" alt="Dni Nowych Technologii" class="grid-w33" />
-  <img src="/img-compressed/Gites/Targi/Targi_2020_1.webp" alt="Wydarzenia i targi" class="grid-w33" />
-{{< /gallery >}}
-
-### Studenckie Koło Naukowe "Errno"
-Na pierwszym roku studiów, tęskniąc za energią i praktycznym działaniem z Gitesu, postanowiłem założyć własne koło naukowe. Tak powstało Errno przy Wydziale Fizyki UAM. Mimo trudnych początków i dużej ilości formalności, już po niecałym roku działalności zdobyliśmy tytuł najlepszego koła naukowego UAM w kategorii naukowej.
-
-{{< gallery >}}
-  <img src="/img-compressed/Errno/errno1.webp" alt="Dzień Kół Naukowych" class="grid-w33" />
-  <img src="/img-compressed/Errno/errno2.webp" alt="PestkaJam" class="grid-w33" />
-  <img src="/img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" alt="Autonomiczne drony WST" class="grid-w33" />
-{{< /gallery >}}
-
----
-
-## Zbudujmy coś razem
-Szukasz doświadczonego programisty Unity do swojego projektu XR? Chcesz skonsultować architekturę Sim2Real lub zintegrować autorski sprzęt z silnikiem gry?  
-Napisz do mnie lub znajdź mnie w sieci.
-
-{{< button href="mailto:klim.milosz@gmail.com" >}}
-Napisz e-mail
-{{< /button >}}
-{{< button href="/Miłosz Klim - CV.pdf" target="_blank" >}}
-Pobierz CV (PDF)
-{{< /button >}}
-
-[LinkedIn](https://www.linkedin.com/in/miloszklim/) | [GitHub](https://github.com/DAXPL) | [Itch.io](https://daxpl.itch.io/)
+<div class="cta-banner">
+  <h2>Zbudujmy coś razem</h2>
+  <p>
+    Szukasz programisty Unity do projektu XR, chcesz skonsultować architekturę Sim2Real lub zaprosić mnie na prelekcję techniczną?
+  </p>
+  <div class="btn-group" style="justify-content: center; margin-bottom: 0;">
+    {{< button href="mailto:klim.milosz@gmail.com" style="primary" >}}✉️ Napisz do mnie{{< /button >}}
+    {{< button href="/Miłosz Klim - CV.pdf" target="_blank" style="secondary" >}}📄 Pobierz CV (PDF){{< /button >}}
+  </div>
+</div>

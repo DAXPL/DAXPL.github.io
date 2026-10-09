@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MR on Miłosz Klim</title>
-    <link>https://daxpl.github.io/tags/mr/</link>
+    <link>http://localhost:1313/tags/mr/</link>
     <description>Recent content in MR on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/mr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pyrkon Festival: Interactive Mixed Reality Booth (2025–2026)</title>
-      <link>https://daxpl.github.io/posts/pyrkon-festiwal-xr/</link>
+      <link>http://localhost:1313/posts/pyrkon-festiwal-xr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/pyrkon-festiwal-xr/</guid>
+      <guid>http://localhost:1313/posts/pyrkon-festiwal-xr/</guid>
       <description>Showcasing bespoke Mixed Reality (MR) and VR educational applications at one of Europe&amp;rsquo;s largest pop culture festivals — Pyrkon.</description>
       
     </item>

@@ -6,16 +6,15 @@ cascade:
   showAuthor: false
 ---
 
-# Miłosz Klim
-**Unity Developer | IT Systems Integrator | XR & AI Engineer**  
-*Poznań, Poland*
+<div class="about-hero-box">
+  <div class="about-hero-role">Unity Developer | IT Systems Integrator | XR & AI Engineer</div>
+  <div class="about-hero-loc">📍 Poznań, Poland</div>
+</div>
 
-{{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" >}}
-Download my CV (PDF)
-{{< /button >}}
-{{< button href="/Miłosz Klim - CV.pdf" target="_blank" >}}
-Pobierz CV po polsku (PDF)
-{{< /button >}}
+<div class="btn-group">
+  {{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" style="primary" >}}📄 Download my CV (PDF){{< /button >}}
+  {{< button href="/Miłosz Klim - CV.pdf" target="_blank" style="secondary" >}}📄 Pobierz CV po polsku (PDF){{< /button >}}
+</div>
 
 ---
 

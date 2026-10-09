@@ -2,91 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts &amp; Talks on Miłosz Klim</title>
-    <link>https://daxpl.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts &amp; Talks on Miłosz Klim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
     <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
     <copyright>© 2026 Miłosz Klim</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pyrkon Festival: Interactive Mixed Reality Booth (2025–2026)</title>
-      <link>https://daxpl.github.io/posts/pyrkon-festiwal-xr/</link>
+      <link>http://localhost:1313/posts/pyrkon-festiwal-xr/</link>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/pyrkon-festiwal-xr/</guid>
+      <guid>http://localhost:1313/posts/pyrkon-festiwal-xr/</guid>
       <description>Showcasing bespoke Mixed Reality (MR) and VR educational applications at one of Europe&amp;rsquo;s largest pop culture festivals — Pyrkon.</description>
       
     </item>
     
     <item>
       <title>Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing (OCETA Lounge 2026)</title>
-      <link>https://daxpl.github.io/posts/oceta-2026-zero-trust-ai/</link>
+      <link>http://localhost:1313/posts/oceta-2026-zero-trust-ai/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2026-zero-trust-ai/</guid>
+      <guid>http://localhost:1313/posts/oceta-2026-zero-trust-ai/</guid>
       <description>A talk at OCETA Lounge detailing Zero-Trust AI architectures – processing sensitive biometric and telemetry data entirely on-device using Ollama and local open-weight LLMs.</description>
       
     </item>
     
     <item>
       <title>HARDWARE SOVEREIGNTY: Creating Custom Devices with AI Agents (OCETA Connect 2026)</title>
-      <link>https://daxpl.github.io/posts/oceta-2026-hardware-sovereignty/</link>
+      <link>http://localhost:1313/posts/oceta-2026-hardware-sovereignty/</link>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2026-hardware-sovereignty/</guid>
+      <guid>http://localhost:1313/posts/oceta-2026-hardware-sovereignty/</guid>
       <description>A talk and discussion panel at OCETA Connect on engineering bespoke embedded devices using AI agents to achieve complete data security and hardware independence.</description>
       
     </item>
     
     <item>
       <title>New Technology Days: Multi-Year Innovation Festival (2019–2026)</title>
-      <link>https://daxpl.github.io/posts/dnt-nowe-technologie/</link>
+      <link>http://localhost:1313/posts/dnt-nowe-technologie/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/dnt-nowe-technologie/</guid>
+      <guid>http://localhost:1313/posts/dnt-nowe-technologie/</guid>
       <description>Co-organizing every edition of New Technology Days: hands-on hardware workshops, 3D printing labs, Unity demos, and connecting high schoolers with university research.</description>
       
     </item>
     
     <item>
       <title>Experiencing Immersion in Virtual Realities &amp; Techniques for Deepening Presence (OCETA 2025)</title>
-      <link>https://daxpl.github.io/posts/oceta-2025-immersja-xr/</link>
+      <link>http://localhost:1313/posts/oceta-2025-immersja-xr/</link>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/oceta-2025-immersja-xr/</guid>
+      <guid>http://localhost:1313/posts/oceta-2025-immersja-xr/</guid>
       <description>A conference talk delivered at OCETA exploring embodied presence in XR, physiological biometric measurements of immersion, and practical techniques for spatial depth.</description>
       
     </item>
     
     <item>
       <title>Tech Lectures &amp; Interactive Workshops at Museum Night</title>
-      <link>https://daxpl.github.io/posts/noc-muzeow/</link>
+      <link>http://localhost:1313/posts/noc-muzeow/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/noc-muzeow/</guid>
+      <guid>http://localhost:1313/posts/noc-muzeow/</guid>
       <description>Hosting interactive technology workshops and public lectures during the nationwide Long Night of Museums at Adam Mickiewicz University.</description>
       
     </item>
     
     <item>
       <title>Pestka Jam: 72-Hour Game Jam Organization &amp; Developer Mentoring</title>
-      <link>https://daxpl.github.io/posts/pestka-jam/</link>
+      <link>http://localhost:1313/posts/pestka-jam/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/pestka-jam/</guid>
+      <guid>http://localhost:1313/posts/pestka-jam/</guid>
       <description>Behind the scenes of organizing Pestka Jam with the Errno science club – 72 hours of intensive prototyping, technical mentoring, and game production.</description>
       
     </item>
     
     <item>
       <title>Poznań Game Arena 2021 - Indie Booth Case Study &amp; &#34;Poszutex&#34;</title>
-      <link>https://daxpl.github.io/posts/pga-2021/</link>
+      <link>http://localhost:1313/posts/pga-2021/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       <author>klim.milosz@gmail.com (Miłosz Klim)</author>
-      <guid>https://daxpl.github.io/posts/pga-2021/</guid>
+      <guid>http://localhost:1313/posts/pga-2021/</guid>
       <description>A case study detailing Propaganda Studios&amp;rsquo; indie booth at PGA 2021: welcoming hundreds of players, gathering real-time feedback, and shipping overnight bug fixes.</description>
       
     </item>

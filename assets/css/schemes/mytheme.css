@@ -1,0 +1,40 @@
+/* MyTheme scheme - Sky / Slate / Neutral */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Neutral / Slate dark tone */
+  --color-neutral-50: 248, 250, 252;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 100, 116, 139;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 24, 30, 44;
+  --color-neutral-900: 13, 17, 28;
+
+  /* Sky */
+  --color-primary-50: 240, 249, 255;
+  --color-primary-100: 224, 242, 254;
+  --color-primary-200: 186, 230, 253;
+  --color-primary-300: 125, 211, 252;
+  --color-primary-400: 56, 189, 248;
+  --color-primary-500: 14, 165, 233;
+  --color-primary-600: 2, 132, 199;
+  --color-primary-700: 3, 105, 161;
+  --color-primary-800: 7, 89, 133;
+  --color-primary-900: 12, 74, 110;
+
+  /* Slate */
+  --color-secondary-50: 248, 250, 252;
+  --color-secondary-100: 241, 245, 249;
+  --color-secondary-200: 226, 232, 240;
+  --color-secondary-300: 203, 213, 225;
+  --color-secondary-400: 148, 163, 184;
+  --color-secondary-500: 100, 116, 139;
+  --color-secondary-600: 71, 85, 105;
+  --color-secondary-700: 51, 65, 85;
+  --color-secondary-800: 30, 41, 59;
+  --color-secondary-900: 15, 23, 42;
+}
+
