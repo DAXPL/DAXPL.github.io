@@ -59,12 +59,12 @@ Special thanks go to the **Wielkopolskie Center for Advanced Technologies (WCZT)
 ## Project Gallery
 
 {{< gallery >}}
-  ![Launching the autonomous boat](/img-compressed/Errno/Drony/20250602_143615.webp)
-  ![Structural hull and watercraft testing](/img-compressed/Errno/Drony/20250602_143633.webp)
-  ![Electronics assembly in the lab](/img-compressed/Errno/Drony/20250609_143529.webp)
-  ![Integrated autonomous vehicle](/img-compressed/Errno/Drony/IMG-20250609-WA0000.webp)
-  ![Air-propulsion and mechanical details](/img-compressed/Errno/Drony/20250602_144957.webp)
-  ![Early breadboard electronics prototyping](/img-compressed/Errno/Drony/20250511_222628.webp)
+  <img alt="Launching the autonomous boat" src="/img-compressed/Errno/Drony/20250602_143615.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Structural hull and watercraft testing" src="/img-compressed/Errno/Drony/20250602_143633.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Electronics assembly in the lab" src="/img-compressed/Errno/Drony/20250609_143529.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Integrated autonomous vehicle" src="/img-compressed/Errno/Drony/IMG-20250609-WA0000.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Air-propulsion and mechanical details" src="/img-compressed/Errno/Drony/20250602_144957.webp" class="grid-w50 md:grid-w33" />
+  <img alt="Early breadboard electronics prototyping" src="/img-compressed/Errno/Drony/20250511_222628.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---

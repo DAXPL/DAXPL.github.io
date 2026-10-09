@@ -25,9 +25,9 @@ Over the years, my role evolved from managing individual tech demo stands to dir
 ## Event Gallery
 
 {{< gallery >}}
-  ![New Technology Days 2018](/img-compressed/Gites/DNT/DNT_2018_1.webp)
-  ![New Technology Days 2022](/img-compressed/Gites/DNT/DNT_2022_1.webp)
-  ![New Technology Days 2023](/img-compressed/Gites/DNT/DNT_2023_1.webp)
+  <img alt="New Technology Days 2018" src="/img-compressed/Gites/DNT/DNT_2018_1.webp" class="grid-w50 md:grid-w33" />
+  <img alt="New Technology Days 2022" src="/img-compressed/Gites/DNT/DNT_2022_1.webp" class="grid-w50 md:grid-w33" />
+  <img alt="New Technology Days 2023" src="/img-compressed/Gites/DNT/DNT_2023_1.webp" class="grid-w50 md:grid-w33" />
 {{< /gallery >}}
 
 ---
