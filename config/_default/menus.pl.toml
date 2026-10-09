@@ -1,0 +1,47 @@
+[[main]]
+  name = "O mnie"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Projekty"
+  pageRef = "projects"
+  weight = 20
+
+[[main]]
+  name = "Wpisy & Prelekcje"
+  pageRef = "posts"
+  weight = 30
+
+[[main]]
+  name = "CV"
+  url = "/Miłosz Klim - CV.pdf"
+  weight = 40
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/DAXPL"
+  weight = 50
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/miloszklim/"
+  weight = 60
+
+[[footer]]
+  name = "Projekty"
+  pageRef = "projects"
+  weight = 10
+
+[[footer]]
+  name = "Wpisy"
+  pageRef = "posts"
+  weight = 20
+
+[[footer]]
+  name = "Tagi"
+  pageRef = "tags"
+  weight = 30
+

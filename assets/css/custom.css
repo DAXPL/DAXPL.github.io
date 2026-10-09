@@ -1,0 +1,57 @@
+/* 1. Usunięcie podwójnego tytułu (Miłosz Klim - Portfolio) wygenerowanego przez motyw na górze strony */
+.article-header {
+    display: none !important;
+}
+
+/* 2. Nadpisanie zmiennych Blowfish w trybie ciemnym (.dark). 
+   UWAGA: Tailwind CSS bezwzględnie wymaga wartości RGB, a nie HEX! */
+.dark {
+  /* Tło kart i elementów (odpowiednik Twojego #2a2a2a) */
+  --color-neutral-800: 42, 42, 42 !important; 
+  
+  /* Główne tło strony (odpowiednik Twojego #191919) */
+  --color-neutral-900: 25, 25, 25 !important; 
+  
+  /* Linki i akcenty (odpowiednik Twojego #4da6ff) */
+  --color-primary-400: 77, 166, 255 !important; 
+  --color-primary-500: 77, 166, 255 !important; 
+  --color-primary-600: 140, 203, 255 !important; /* Kolor przy najechaniu myszką */
+}
+
+/* 3. Wymuszenie czcionki i koloru tekstu ze starej strony */
+body {
+    color: #b7b7b7 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+}
+
+/* 4. Wygląd przycisku "Download my CV" */
+/* Zmuszamy przyciski motywu do bycia białymi z czarnym tekstem (jak w Twoim starym CSS) */
+a[class*="bg-primary-"], .btn {
+   background-color: #ffffff !important;
+   color: #191919 !important;
+   border-radius: 5px !important;
+   font-weight: 700 !important;
+   transition: transform 0.3s ease, background-color 0.3s ease !important;
+}
+
+a[class*="bg-primary-"]:hover, .btn:hover {
+   background-color: #e0e0e0 !important;
+   transform: translateY(-2px) !important;
+}
+
+/* 5. Zaokrąglenia, centrowanie i szerokość */
+img, iframe, .gallery img, article {
+    border-radius: 8px !important;
+}
+
+.prose {
+  max-width: 960px !important; 
+  margin: 0 auto;
+}
+
+h1, h2 {
+  text-align: center !important;
+}

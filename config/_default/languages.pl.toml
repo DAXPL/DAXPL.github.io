@@ -1,0 +1,26 @@
+disabled = false
+locale = "pl"
+label = "Polski"
+weight = 1
+title = "Miłosz Klim"
+
+[params]
+  displayName = "PL"
+  isoCode = "pl"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Nowoczesna strona osobista Miłosza Klima – Unity, XR, IoT i AI"
+
+[params.author]
+  name = "Miłosz Klim"
+  email = "klim.milosz@gmail.com"
+  image = "img/miloszKlim.webp"
+  imageQuality = 96
+  headline = "Unity Developer | Integrator IT | Twórca XR & AI"
+  bio = "Tworzę interaktywne światy, aplikacje XR, systemy Sim2Real i autorskie rozwiązania łączące hardware z softwarem."
+  links = [
+    { email = "mailto:klim.milosz@gmail.com" },
+    { github = "https://github.com/DAXPL" },
+    { linkedin = "https://www.linkedin.com/in/miloszklim/" },
+    { itch-io = "https://daxpl.itch.io/" }
+  ]

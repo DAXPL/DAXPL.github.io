@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Miłosz Klim</title>
+    <link>https://daxpl.github.io/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Miłosz Klim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>klim.milosz@gmail.com (Miłosz Klim)</managingEditor>
+    <webMaster>klim.milosz@gmail.com (Miłosz Klim)</webMaster>
+    <copyright>© 2026 Miłosz Klim</copyright>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://daxpl.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WST / XR BINIU - Autonomous AI Drones &amp; Sim2Real</title>
+      <link>https://daxpl.github.io/projects/wst-drony/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <author>klim.milosz@gmail.com (Miłosz Klim)</author>
+      <guid>https://daxpl.github.io/projects/wst-drony/</guid>
+      <description>An open-source framework connecting Unity 6 physics simulations, reinforcement learning (ML-Agents), and ESP32 controllers over LTE/VPN for autonomous unmanned vehicles.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

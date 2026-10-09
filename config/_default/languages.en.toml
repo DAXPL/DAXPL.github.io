@@ -1,0 +1,26 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 2
+title = "Miłosz Klim"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Personal website of Miłosz Klim – Unity, XR, IoT and AI"
+
+[params.author]
+  name = "Miłosz Klim"
+  email = "klim.milosz@gmail.com"
+  image = "img/miloszKlim.webp"
+  imageQuality = 96
+  headline = "Unity Developer | IT Integrator | XR & AI Creator"
+  bio = "Crafting interactive worlds, XR applications, Sim2Real systems, and custom hardware-software solutions."
+  links = [
+    { email = "mailto:klim.milosz@gmail.com" },
+    { github = "https://github.com/DAXPL" },
+    { linkedin = "https://www.linkedin.com/in/miloszklim/" },
+    { itch-io = "https://daxpl.itch.io/" }
+  ]
