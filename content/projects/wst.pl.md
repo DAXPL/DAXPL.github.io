@@ -4,7 +4,10 @@ date: 2025-06-01
 summary: "Open-source'owy framework łączący silnik Unity 6, uczenie przez wzmacnianie (ML-Agents) oraz kontrolery ESP32 z modemem LTE/VPN do sterowania autonomicznymi pojazdami."
 tags: ["Unity 6", "AI", "ML-Agents", "Reinforcement Learning", "ESP32", "C++", "C#", "Python", "Sim2Real", "Drony", "IoT", "Druk 3D", "Open-Source"]
 categories: ["Projekty", "AI & Robotyka"]
-aliases: ["/autonomiczneDrony-pl.html"]
+aliases:
+  - /autonomiczneDrony-pl.html
+  - /pl/projects/wst-drony/
+  - /projects/wst-drony/
 ---
 
 > *"Naszym największym sukcesem było nauczenie piasku myślenia."*
