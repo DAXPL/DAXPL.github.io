@@ -45,3 +45,4 @@ To accelerate the production of 3D research environment assets, I incorporated a
 
 ## Summary
 In-depth analysis of the sanitized biometric datasets conclusively demonstrated VR's physiological superiority. Virtual reality triggers objectively more pronounced somatic responses than flat displays, fostering faster entry into the *flow* state and sustaining it significantly longer. This multi-year initiative demonstrates how software engineering (Gamedev, XR), embedded hardware (IoT), and medical telemetry analysis (Data Science) converge to create genuinely intelligent, user-aware interactive systems.
+

@@ -92,7 +92,7 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
     <a href="/pl/projects/" class="section-link">Wszystkie projekty (5) &rarr;</a>
   </div>
   <div class="projects-showcase-grid">
-    <a href="/pl/projects/wst-drony/" class="showcase-card">
+    <a href="/pl/projects/wst/" class="showcase-card">
       <div>
         <span class="showcase-badge">AI • Sim2Real • Robotyka</span>
         <h3 class="showcase-title">Weird Steering Things</h3>

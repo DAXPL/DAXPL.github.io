@@ -93,7 +93,7 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
     <a href="/projects/" class="section-link">All projects (5) &rarr;</a>
   </div>
   <div class="projects-showcase-grid">
-    <a href="/projects/wst-drony/" class="showcase-card">
+    <a href="/projects/wst/" class="showcase-card">
       <div>
         <span class="showcase-badge">AI • Sim2Real • Robotics</span>
         <h3 class="showcase-title">Weird Steering Things</h3>
