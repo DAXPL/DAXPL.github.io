@@ -4,9 +4,6 @@ date: 2026-10-01
 summary: "Wieloletni projekt badawczy (inżynierski i magisterski) łączący symulatory VR w Unity 3D, autorski sprzęt IoT na ESP32 (w tym moduł zapachowy) oraz medyczną analizę biometryczną przy użyciu Pythona i Pandas."
 tags: ["Unity 3D", "C#", "VR", "Biometria", "Netcode for GameObjects", "ESP32", "IoT", "Data Science", "Python", "Pandas", "GenAI", "Shader Graph", "URP"]
 categories: ["Projekty", "Gamedev & XR", "Badania R&D"]
-aliases:
-  - /projects/rouge-squadron/
-  - /projects/green-hour/
 ---
 
 Projekt ten stanowi interdyscyplinarną, dwuetapową podróż badawczą, w której postanowiłem matematycznie i fizjologicznie zmierzyć zjawisko immersji w rzeczywistości wirtualnej. Badania te były realizowane w ramach mojej pracy inżynierskiej (kierunek: Technologie Komputerowe) oraz magisterskiej (kierunek: Aplikacje Internetu Rzeczy, pod kierunkiem prof. dr. hab. Sławomira Mamicy) na Wydziale Fizyki i Astronomii UAM.
