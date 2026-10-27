@@ -5,6 +5,8 @@ weight = 2
 title = "Miłosz Klim"
 
 [params]
+  locale = "en"
+  label = "English"
   displayName = "EN"
   isoCode = "en"
   rtl = false
