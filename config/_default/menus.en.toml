@@ -14,11 +14,6 @@
   weight = 30
 
 [[main]]
-  name = "CV"
-  url = "/Miłosz Klim - CV EN.pdf"
-  weight = 40
-
-[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/DAXPL"

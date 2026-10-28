@@ -1,40 +1,41 @@
-/* MyTheme scheme - Sky / Slate / Neutral */
+/* Utilitarian Workshop Theme Scheme - Hardware, PCB & Craftsmanship */
 :root {
-  --color-neutral: 255, 255, 255;
-  /* Neutral / Slate dark tone */
-  --color-neutral-50: 248, 250, 252;
-  --color-neutral-100: 241, 245, 249;
-  --color-neutral-200: 226, 232, 240;
-  --color-neutral-300: 203, 213, 225;
-  --color-neutral-400: 148, 163, 184;
-  --color-neutral-500: 100, 116, 139;
-  --color-neutral-600: 71, 85, 105;
-  --color-neutral-700: 51, 65, 85;
-  --color-neutral-800: 24, 30, 44;
-  --color-neutral-900: 13, 17, 28;
+  /* Tekst główny na ciemnym tle / tło główne w trybie jasnym: #E8E3D9 */
+  --color-neutral: 232, 227, 217;
 
-  /* Sky */
-  --color-primary-50: 240, 249, 255;
-  --color-primary-100: 224, 242, 254;
-  --color-primary-200: 186, 230, 253;
-  --color-primary-300: 125, 211, 252;
-  --color-primary-400: 56, 189, 248;
-  --color-primary-500: 14, 165, 233;
-  --color-primary-600: 2, 132, 199;
-  --color-primary-700: 3, 105, 161;
-  --color-primary-800: 7, 89, 133;
-  --color-primary-900: 12, 74, 110;
+  /* Warsztatowa skala neutralna: od jasnego kartonu do zgaszonej czerni #1A1A18 */
+  --color-neutral-50: 244, 239, 230;  /* #F4EFE6 - jasny karton off-white */
+  --color-neutral-100: 226, 219, 206; /* #E2DBCE - ciepły papier */
+  --color-neutral-200: 209, 199, 183; /* #D1C7B7 - jasny szary karton */
+  --color-neutral-300: 194, 178, 154; /* #C2B29A - szary karton / tektura */
+  --color-neutral-400: 156, 147, 132; /* #9C9384 - wyblakły beż */
+  --color-neutral-500: 107, 100, 89;  /* #6B6459 - zgaszony grafit */
+  --color-neutral-600: 56, 53, 48;    /* #383530 - ciemny brąz / obramowania */
+  --color-neutral-700: 35, 34, 30;    /* #23221E - podniesiona powierzchnia ciemna */
+  --color-neutral-800: 26, 26, 24;    /* #1A1A18 - tło główne ciemne (warsztatowa czerń) */
+  --color-neutral-900: 45, 43, 42;    /* #2D2B2A - wyblakła grafitowa czerń z odrobiną brązu */
 
-  /* Slate */
-  --color-secondary-50: 248, 250, 252;
-  --color-secondary-100: 241, 245, 249;
-  --color-secondary-200: 226, 232, 240;
-  --color-secondary-300: 203, 213, 225;
-  --color-secondary-400: 148, 163, 184;
-  --color-secondary-500: 100, 116, 139;
-  --color-secondary-600: 71, 85, 105;
-  --color-secondary-700: 51, 65, 85;
-  --color-secondary-800: 30, 41, 59;
-  --color-secondary-900: 15, 23, 42;
+  /* Akcent Główny: Butelkowa Zieleń (Płytka PCB, mech, igliwie) */
+  --color-primary-50: 235, 243, 236;
+  --color-primary-100: 205, 227, 208;
+  --color-primary-200: 147, 196, 153;
+  --color-primary-300: 96, 159, 103;
+  --color-primary-400: 68, 127, 75;   /* #447F4B - czytelna zieleń PCB */
+  --color-primary-500: 46, 91, 51;    /* #2E5B33 - zieleń ścieżek */
+  --color-primary-600: 35, 69, 36;    /* #234524 - akcent butelkowa zieleń */
+  --color-primary-700: 25, 56, 31;    /* #19381F - głęboka butelkowa zieleń */
+  --color-primary-800: 18, 41, 23;    /* #122917 - ciemna żywica PCB */
+  --color-primary-900: 12, 28, 15;
+
+  /* Akcent Dodatkowy: Miedź i Naturalne Drewno (Ścieżki miedziane, dąb, orzech) */
+  --color-secondary-50: 252, 244, 238;
+  --color-secondary-100: 249, 224, 206;
+  --color-secondary-200: 242, 188, 145;
+  --color-secondary-300: 229, 146, 82;
+  --color-secondary-400: 212, 112, 38; /* #D47026 - jasna miedź */
+  --color-secondary-500: 184, 93, 25;  /* #B85D19 - miedź / rdzawy pomarańcz */
+  --color-secondary-600: 166, 79, 14;
+  --color-secondary-700: 140, 67, 11;  /* #8C430B - palone drewno / ciemna miedź */
+  --color-secondary-800: 110, 51, 9;
+  --color-secondary-900: 74, 33, 5;
 }
-

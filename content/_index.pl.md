@@ -4,10 +4,6 @@ description: "Unity Developer | Integrator Rozwiązań IT | Twórca XR & AI"
 ---
 
 <div class="hero-wrapper">
-  <div class="hero-status-pill">
-    <span class="hero-status-dot"></span>
-    Dostępny do innowacyjnych projektów XR & AI
-  </div>
   <h1 class="hero-headline">
     Cześć, jestem <span class="hero-gradient-text">Miłosz Klim</span>.
   </h1>

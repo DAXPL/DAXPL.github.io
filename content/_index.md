@@ -4,10 +4,6 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
 ---
 
 <div class="hero-wrapper">
-  <div class="hero-status-pill">
-    <span class="hero-status-dot"></span>
-    Available for innovative XR & AI projects
-  </div>
   <h1 class="hero-headline">
     Hi, I'm <span class="hero-gradient-text">Miłosz Klim</span>.
   </h1>
