@@ -1,5 +1,5 @@
 ---
-title: "Miłosz Klim"
+title: "Input Garage"
 description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
 ---
 

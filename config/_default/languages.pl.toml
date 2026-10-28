@@ -2,7 +2,7 @@ disabled = false
 locale = "pl"
 label = "Polski"
 weight = 1
-title = "Miłosz Klim"
+title = "Input Garage"
 
 [params]
   locale = "pl"
@@ -11,7 +11,7 @@ title = "Miłosz Klim"
   isoCode = "pl"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Nowoczesna strona osobista Miłosza Klima – Unity, XR, IoT i AI"
+  description = "Input Garage – Prototypowanie hardware, XR, robotyka Sim2Real i integracja systemów IT (Miłosz Klim)"
 
 [params.author]
   name = "Miłosz Klim"
