@@ -2,7 +2,7 @@
 title: "WST / XR BINIU – How We Taught Sand to Think, Sank a Boat, and Built Our Own Sim2Real Ecosystem"
 date: 2025-06-01
 summary: "From an academic Unity 6 simulation and a ripped-off industrial 3D printer hotend to global cellular VPN control and custom UDP protocols. A two-year journey of mistakes, smoking electronics, and building an open-source platform for autonomous vehicles."
-tags: ["Unity 6", "AI", "ML-Agents", "Reinforcement Learning", "ESP32", "C++", "C#", "Python", "Sim2Real", "Drones", "IoT", "3D Printing", "Open-Source"]
+tags: ["AI", "Sim2Real", "Robotics", "Unity"]
 categories: ["Projects", "AI & Robotics"]
 ---
 

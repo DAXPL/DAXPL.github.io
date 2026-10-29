@@ -2,7 +2,7 @@
 title: "Zero-Trust AI: Bezpieczeństwo wrażliwych danych i lokalne LLM (OCETA Lounge 2026)"
 date: 2026-06-18
 summary: "Wykład na OCETA Lounge poświęcony architekturze Zero-Trust AI – przetwarzaniu wrażliwych danych telemetrycznych i biometrycznych wyłącznie lokalnie przy użyciu Ollama i otwartych modeli LLM."
-tags: ["Konferencja", "AI", "Ollama", "Security", "LLM", "Prelekcja", "Zero-Trust"]
+tags: ["AI", "Security", "Wystąpienia", "Open-Source"]
 categories: ["Wpisy & Relacje", "Prelekcje & Wystąpienia"]
 ---
 

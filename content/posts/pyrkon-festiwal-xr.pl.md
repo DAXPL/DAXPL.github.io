@@ -2,7 +2,7 @@
 title: "Festiwal Pyrkon: Stoisko interaktywnych aplikacji Mixed Reality (2025–2026)"
 date: 2026-06-21
 summary: "Demonstracja autorskich aplikacji Mixed Reality (MR) i VR na jednym z największych konwentów popkultury w Europie – Międzynarodowym Festiwalu Fantastyki Pyrkon."
-tags: ["Festiwal", "XR", "MR", "VR", "Wystawa", "Fantastyczny UAM", "Prezentacja"]
+tags: ["XR", "VR", "Wydarzenia"]
 categories: ["Wpisy & Relacje", "Działalność & Wydarzenia"]
 ---
 

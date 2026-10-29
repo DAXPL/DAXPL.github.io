@@ -2,7 +2,7 @@
 title: "WST / XR BINIU – Jak nauczyliśmy piasek myśleć, utopiliśmy łódkę i zbudowaliśmy własny ekosystem Sim2Real"
 date: 2025-06-01
 summary: "Od akademickiej symulacji w Unity 6 i wyrwanej głowicy drukarki przemysłowej po globalne sterowanie przez tunel VPN i własne protokoły UDP. Historia dwóch lat błędów, dymiącej elektroniki i budowy otwartej platformy dla pojazdów autonomicznych."
-tags: ["Unity 6", "AI", "ML-Agents", "Reinforcement Learning", "ESP32", "C++", "C#", "Python", "Sim2Real", "Drony", "IoT", "Druk 3D", "Open-Source"]
+tags: ["AI", "Sim2Real", "Robotyka", "Unity"]
 categories: ["Projekty", "AI & Robotyka"]
 ---
 

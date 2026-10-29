@@ -2,7 +2,7 @@
 title: "The Physiology of VR Immersion"
 date: 2026-10-01
 summary: "Bridging human biology with game engine rendering loops: measuring presence, EDA, heart rate, and flow states in VR using medical biometrics and custom IoT telemetry."
-tags: ["VR", "Unity 3D", "IoT", "ESP32", "Biometrics", "Gamedev", "Data Science", "Hardware"]
+tags: ["VR", "Unity", "Biometrics", "Hardware"]
 categories: ["Projects", "Gamedev & XR", "R&D Research"]
 ---
 

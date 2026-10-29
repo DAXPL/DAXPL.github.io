@@ -2,7 +2,7 @@
 title: "Prelekcje i warsztaty technologiczne w ramach Nocy Muzeów"
 date: 2024-05-18
 summary: "Prowadzenie interaktywnych warsztatów i otwartych prelekcji technologicznych w ramach Nocy Muzeów na Uniwersytecie im. Adama Mickiewicza w Poznaniu."
-tags: ["Warsztaty", "UAM", "Fantastyczny UAM", "Popularyzacja Nauki", "Prelekcja", "XR"]
+tags: ["XR", "Wydarzenia", "Edukacja"]
 categories: ["Wpisy & Relacje", "Działalność & Wydarzenia"]
 ---
 

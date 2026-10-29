@@ -2,7 +2,7 @@
 title: "New Technology Days: Multi-Year Innovation Festival (2019–2026)"
 date: 2026-03-20
 summary: "Co-organizing every edition of New Technology Days: hands-on hardware workshops, 3D printing labs, Unity demos, and connecting high schoolers with university research."
-tags: ["Event Organization", "UAM", "GITES", "Technology", "Management", "Education"]
+tags: ["Events", "Education", "Hardware", "3D Printing"]
 categories: ["Posts & Talks", "Events & Community"]
 ---
 

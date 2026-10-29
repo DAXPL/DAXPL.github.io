@@ -2,7 +2,7 @@
 title: "Doświadczanie immersji w rzeczywistościach wirtualnych i techniki jej pogłębiania (OCETA 2025)"
 date: 2025-06-12
 summary: "Wykład na konferencji OCETA poświęcony zjawisku embodied presence w XR, metodom pomiaru immersji za pomocą sensorów biometrycznych oraz technikom potęgowania obecności."
-tags: ["Konferencja", "VR", "XR", "Biometria", "Embodied Presence", "Prelekcja", "R&D"]
+tags: ["VR", "Biometria", "Badania R&D", "Wystąpienia"]
 categories: ["Wpisy & Relacje", "Prelekcje & Wystąpienia"]
 ---
 

@@ -2,7 +2,7 @@
 title: "HARDWARE SOVEREIGNTY: Tworzenie autorskiego sprzętu z agentami AI (OCETA Connect 2026)"
 date: 2026-06-05
 summary: "Prezentacja i panel dyskusyjny na konferencji OCETA Connect o budowie autorskich urządzeń sprzętowych z wykorzystaniem agentów AI w celu zapewnienia pełnego bezpieczeństwa danych."
-tags: ["Hardware", "AI", "Security", "Wystąpienie publiczne", "ESP32", "IoT"]
+tags: ["Hardware", "AI", "Security", "Wystąpienia"]
 categories: ["Wpisy & Relacje", "Prelekcje & Wystąpienia"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Fizjologia immersji w VR"
 date: 2026-10-01
 summary: "Fizjologia immersji w VR"
-tags: ["VR", "Unity 3D", "IoT", "ESP32", "Biometria", "Gamedev", "Data Science", "Hardware"]
+tags: ["VR", "Unity", "Biometria", "Hardware"]
 categories: ["Projekty", "Gamedev & XR", "Badania R&D"]
 ---
 

@@ -2,7 +2,7 @@
 title: "LAB-VR - Educational Virtual Reality Platform"
 date: 2023-09-01
 summary: "An open-source educational VR platform (physics, astronomy, geology, computer hardware) funded by the Kowadło 2.0 grant, optimized for Meta Quest 2 and deployed in schools nationwide."
-tags: ["Unity 3D", "VR", "XR", "Open-Source", "Education", "Meta Quest 2", "Gamedev", "Android"]
+tags: ["VR", "Unity", "Open-Source", "Education"]
 categories: ["Projects", "Gamedev & XR", "Education"]
 ---
 

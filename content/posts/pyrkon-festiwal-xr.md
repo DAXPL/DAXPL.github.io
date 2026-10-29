@@ -2,7 +2,7 @@
 title: "Pyrkon Festival: Interactive Mixed Reality Booth (2025–2026)"
 date: 2026-06-21
 summary: "Showcasing bespoke Mixed Reality (MR) and VR educational applications at one of Europe's largest pop culture festivals — Pyrkon."
-tags: ["Festival", "XR", "MR", "VR", "Exhibition", "Fantastyczny UAM", "Presentation"]
+tags: ["XR", "VR", "Events"]
 categories: ["Posts & Talks", "Events & Community"]
 ---
 

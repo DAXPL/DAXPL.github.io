@@ -2,7 +2,7 @@
 title: "HARDWARE SOVEREIGNTY: Creating Custom Devices with AI Agents (OCETA Connect 2026)"
 date: 2026-06-05
 summary: "A talk and discussion panel at OCETA Connect on engineering bespoke embedded devices using AI agents to achieve complete data security and hardware independence."
-tags: ["Hardware", "AI", "Security", "Public Speaking", "ESP32", "IoT"]
+tags: ["Hardware", "AI", "Security", "Public Speaking"]
 categories: ["Posts & Talks", "Conferences & Talks"]
 ---
 

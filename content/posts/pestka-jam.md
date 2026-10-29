@@ -2,7 +2,7 @@
 title: "Pestka Jam: 72-Hour Game Jam Organization & Developer Mentoring"
 date: 2024-05-15
 summary: "Behind the scenes of organizing Pestka Jam with the Errno science club – 72 hours of intensive prototyping, technical mentoring, and game production."
-tags: ["Game Jam", "Gamedev", "Event Organization", "Mentoring", "SKN Errno", "Unity"]
+tags: ["Gamedev", "Unity", "Events", "Education"]
 categories: ["Posts & Talks", "Gamedev & XR"]
 ---
 

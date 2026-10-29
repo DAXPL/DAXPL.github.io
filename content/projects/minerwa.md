@@ -2,7 +2,7 @@
 title: "SNS Minerwa - Virtual Shooting Range"
 date: 2022-09-15
 summary: "A virtual marksmanship training system based on computer vision, ESP32-modified replicas, and Unity 3D."
-tags: ["Unity", "C#", "Computer Vision", "Hardware", "ESP32", "IoT", "Education"]
+tags: ["Unity", "Hardware", "ESP32", "Computer Vision"]
 categories: ["Projects", "Gamedev & XR"]
 ---
 

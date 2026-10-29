@@ -2,7 +2,7 @@
 title: "Pestka Jam: Organizacja 72-godzinnego maratonu gamedevowego i mentoring"
 date: 2024-05-15
 summary: "Kulisy organizacji studenckiego game jamu Pestka Jam z ramienia koła naukowego Errno – 72 godziny intensywnego prototypowania, warsztatów i wsparcia merytorycznego dla twórców gier."
-tags: ["Game Jam", "Gamedev", "Organizacja Wydarzeń", "Mentoring", "SKN Errno", "Unity"]
+tags: ["Gamedev", "Unity", "Wydarzenia", "Edukacja"]
 categories: ["Wpisy & Relacje", "Gamedev & XR"]
 ---
 

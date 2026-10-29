@@ -2,7 +2,7 @@
 title: "Heritage Digitization: FOSS, Drones, and 3D Printing in Archaeology"
 date: 2026-10-10
 summary: "A cross-sectional heritage digitization project – from reconstructing the skulls of early medieval settlers to full-island drone photogrammetry in Biskupin using open-source tools and remote compute clusters."
-tags: ["3D Printing", "FDM", "Photogrammetry", "FOSS", "Biskupin", "Museums", "OpenDroneMap"]
+tags: ["3D Printing", "Photogrammetry", "Open-Source", "Hardware"]
 categories: ["Projects", "Hardware & Prototyping"]
 aliases:
   - /czaszki.html

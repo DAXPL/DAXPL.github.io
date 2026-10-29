@@ -2,7 +2,7 @@
 title: "Zero-Trust AI: Securing Sensitive Data Through Local-Only Processing (OCETA Lounge 2026)"
 date: 2026-06-18
 summary: "A talk at OCETA Lounge detailing Zero-Trust AI architectures – processing sensitive biometric and telemetry data entirely on-device using Ollama and local open-weight LLMs."
-tags: ["Conference", "AI", "Ollama", "Security", "LLM", "Talk", "Zero-Trust"]
+tags: ["AI", "Security", "Public Speaking", "Open-Source"]
 categories: ["Posts & Talks", "Conferences & Talks"]
 ---
 

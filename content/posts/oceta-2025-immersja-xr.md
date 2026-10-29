@@ -2,7 +2,7 @@
 title: "Experiencing Immersion in Virtual Realities & Techniques for Deepening Presence (OCETA 2025)"
 date: 2025-06-12
 summary: "A conference talk delivered at OCETA exploring embodied presence in XR, physiological biometric measurements of immersion, and practical techniques for spatial depth."
-tags: ["Conference", "VR", "XR", "Biometrics", "Embodied Presence", "Talk", "R&D"]
+tags: ["VR", "Biometrics", "R&D", "Public Speaking"]
 categories: ["Posts & Talks", "Conferences & Talks"]
 ---
 

@@ -2,7 +2,7 @@
 title: "LAB-VR - Edukacyjna Platforma Wirtualnej Rzeczywistości"
 date: 2023-09-01
 summary: "Otwarta platforma edukacyjna VR (fizyka, astronomia, geologia, UTK) zrealizowana w ramach grantu Kowadło 2.0, zoptymalizowana pod gogle Meta Quest 2 i wdrożona w szkołach w całym kraju."
-tags: ["Unity 3D", "VR", "XR", "Open-Source", "Edukacja", "Meta Quest 2", "Gamedev", "Android"]
+tags: ["VR", "Unity", "Open-Source", "Edukacja"]
 categories: ["Projekty", "Gamedev & XR", "Edukacja"]
 ---
 

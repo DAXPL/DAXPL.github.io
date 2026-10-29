@@ -2,7 +2,7 @@
 title: "Dni Nowych Technologii: Wieloletnia organizacja i popularyzacja innowacji (2019–2026)"
 date: 2026-03-20
 summary: "Współorganizacja wszystkich dotychczasowych edycji Dni Nowych Technologii: warsztaty ze sprzętu, programowania, druku 3D oraz budowanie mostu między szkołami a uczelnią."
-tags: ["Organizacja Wydarzeń", "UAM", "GITES", "Technologie", "Zarządzanie", "Edukacja"]
+tags: ["Wydarzenia", "Edukacja", "Hardware", "Druk 3D"]
 categories: ["Wpisy & Relacje", "Działalność & Wydarzenia"]
 ---
 

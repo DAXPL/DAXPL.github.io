@@ -2,7 +2,7 @@
 title: "Digitalizacja dziedzictwa: FOSS, drony i druk 3D w służbie archeologii"
 date: 2026-10-10
 summary: "Przekrojowy projekt digitalizacji obiektów historycznych – od rekonstrukcji czaszek pierwszych Wielkopolan po fotogrametrię całej wyspy w Biskupinie przy użyciu wolnego oprogramowania i zdalnych klastrów obliczeniowych."
-tags: ["Druk 3D", "FDM", "Fotogrametria", "FOSS", "Biskupin", "Muzealnictwo", "OpenDroneMap"]
+tags: ["Druk 3D", "Fotogrametria", "Open-Source", "Hardware"]
 categories: ["Projekty", "Hardware & Prototypowanie"]
 aliases:
   - /czaszki-pl.html

@@ -2,7 +2,7 @@
 title: "SNS Minerwa - Wirtualna Strzelnica"
 date: 2022-09-15
 summary: "System wirtualnego treningu strzeleckiego oparty na wizji maszynowej, replikach z mikrokontrolerami ESP32 i silniku Unity 3D."
-tags: ["Unity", "C#", "Wizja maszynowa", "Hardware", "ESP32", "IoT", "Edukacja"]
+tags: ["Unity", "Hardware", "ESP32", "Computer Vision"]
 categories: ["Projekty", "Gamedev & XR"]
 ---
 

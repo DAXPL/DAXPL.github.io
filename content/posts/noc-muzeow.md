@@ -2,7 +2,7 @@
 title: "Tech Lectures & Interactive Workshops at Museum Night"
 date: 2024-05-18
 summary: "Hosting interactive technology workshops and public lectures during the nationwide Long Night of Museums at Adam Mickiewicz University."
-tags: ["Workshops", "UAM", "Fantastyczny UAM", "Science Outreach", "Talk", "XR"]
+tags: ["XR", "Events", "Education"]
 categories: ["Posts & Talks", "Events & Community"]
 ---
 
