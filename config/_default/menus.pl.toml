@@ -39,3 +39,19 @@
   name = "Tagi"
   pageRef = "tags"
   weight = 30
+
+[[footer]]
+  name = "Teraz (/now)"
+  pageRef = "now"
+  weight = 35
+
+[[footer]]
+  name = "Ekwipunek (/uses)"
+  pageRef = "uses"
+  weight = 36
+
+[[footer]]
+  name = "RSS"
+  pre = "rss"
+  url = "/pl/index.xml"
+  weight = 40
