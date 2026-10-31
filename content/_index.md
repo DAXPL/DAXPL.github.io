@@ -13,7 +13,6 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
   </p>
   <div class="btn-group">
     {{< button href="/projects/" style="primary" >}}🚀 Featured Projects{{< /button >}}
-    {{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" style="secondary" >}}📄 Download CV (PDF){{< /button >}}
     {{< button href="mailto:klim.milosz@gmail.com" style="secondary" >}}✉️ Contact{{< /button >}}
   </div>
   <div class="hero-social-row">
@@ -206,6 +205,5 @@ description: "Unity Developer | IT Systems Integrator | XR & AI Engineer"
   </p>
   <div class="btn-group" style="justify-content: center; margin-bottom: 0;">
     {{< button href="mailto:klim.milosz@gmail.com" style="primary" >}}✉️ Get in Touch{{< /button >}}
-    {{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" style="secondary" >}}📄 Download CV (PDF){{< /button >}}
   </div>
 </div>

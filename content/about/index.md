@@ -11,11 +11,6 @@ cascade:
   <div class="about-hero-loc">📍 Poznań, Poland</div>
 </div>
 
-<div class="btn-group">
-  {{< button href="/Miłosz Klim - CV EN.pdf" target="_blank" style="primary" >}}📄 Download my CV (PDF){{< /button >}}
-  {{< button href="/Miłosz Klim - CV.pdf" target="_blank" style="secondary" >}}📄 Pobierz CV po polsku (PDF){{< /button >}}
-</div>
-
 ---
 
 ## Hi, I'm Miłosz!

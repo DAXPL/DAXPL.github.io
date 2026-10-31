@@ -57,12 +57,7 @@ Often, content updates, paragraph edits, or technical fixes are made in one lang
 1. **Images and Diagrams:**
    * Confirm that all paths referenced in markdown (e.g. `/img-compressed/...` or `/img/...`) exist under `static/` or `content/`.
    * Check for oversized, unoptimized images. Note: `content/compressor.py` is available in the repository to convert heavy images to compressed `.webp` format.
-2. **Downloadable Files & PDFs:**
-   * Verify that the downloadable CV files exist in `static/`:
-     * Polish CV: `/Miłosz Klim - CV.pdf`
-     * English CV: `/Miłosz Klim - CV EN.pdf`
-   * Confirm that all homepage and about-page download buttons point to the correct filenames.
-3. **Menus & Navigation Parity:**
+2. **Menus & Navigation Parity:**
    * Verify both menu configuration files:
      * Polish menu: `config/_default/menus.pl.toml`
      * English menu: `config/_default/menus.en.toml`

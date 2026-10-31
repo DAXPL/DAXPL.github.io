@@ -29,7 +29,7 @@ This file provides comprehensive guidance and operational rules for AI coding ag
 * **Styling System:**
   * Pure CSS overrides in `assets/css/custom.css`.
   * Custom color scheme tokens in `assets/css/schemes/mytheme.css`.
-* **Static Assets:** Static root files located in `static/` (favicons, manifests, CV PDFs).
+* **Static Assets:** Static root files located in `static/` (favicons, manifests).
 
 ---
 
@@ -56,7 +56,7 @@ DAXPL.github.io/
 │       └── languages.pl.toml    # Polish metadata and site descriptions
 ├── content/
 │   ├── _index.md / *.pl.md      # Homepage content & profile summary
-│   ├── about/                   # About Me page (CV downloads, background, stack)
+│   ├── about/                   # About Me page (background, stack, contact)
 │   ├── now/                     # Live workbench log (/now page inspired by Derek Sivers)
 │   ├── uses/                    # Workshop inventory (/uses page inspired by uses.tech)
 │   ├── posts/                   # Technical articles, conference talks, and event recaps
@@ -72,7 +72,7 @@ DAXPL.github.io/
 │   │   ├── header/basic.html    # Header partial with "🏠 home" link and navigation
 │   │   └── article-link/ & ...  # Utilitarian card geometries
 │   └── robots.txt               # Crawler instructions with ASCII art header
-├── static/                      # Direct static root files (favicons, webmanifest, CV PDFs)
+├── static/                      # Direct static root files (favicons, webmanifest)
 ├── themes/
 │   └── blowfish/                # Upstream submodule (DO NOT EDIT DIRECTLY)
 ├── AGENTS.md                    # This instruction file
